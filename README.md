@@ -1,5 +1,6 @@
 Blueqat Tutorial
---------------------
+====================
+
 Here we provide tutorials on ipython. It is easy to learn quantum computing by checking code on python.
 
 step1. basic operation of quantum logic gate
