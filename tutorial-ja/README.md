@@ -46,10 +46,10 @@ Blueqat日本語チュートリアル
 --------------------
 023. <a href="023_anneal_jij.ipynb">Jij</a>  
 024. <a href="024_anneal_qubo.ipynb">QUBO</a>  
-025.	maxcut	<!--_app_maxcut-->  
-026.	1+1	<!--_app_one_one-->  
-027.	自然数分割問題	<!--_app_number_partitioning-->  
-028.	BIL	<!--_app_bil-->  
+025. <a href="025_maxcut.ipynb">maxcut</a>	
+026. <a href="026_one_plus_one.ipynb">1+1</a>  
+027. <a href="027_numberpartitioning.ipynb">自然数分割問題</a>    
+028. <a href="028_BIL.ipynb">BIL</a>   
 029.	クリークカバー	<!--_app_clique_cover-->  
 030.	クリーク	<!--_app_cliques-->  
 031.	エグザクトカバー	<!--_app_exact_cover-->  
