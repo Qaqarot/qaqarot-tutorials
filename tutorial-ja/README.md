@@ -55,6 +55,7 @@ Blueqat日本語チュートリアル
 031. <a href="031_exact_cover.ipynb">エグザクトカバー</a>  
 032. <a href="032_graph_coloring.ipynb">色塗り分け</a>  
 033. <a href="033_graph_partitioning.ipynb">graph</a>  
-034.	job sequence	<!--_app_graph_partitioning-->  
-035.	knapsack	<!--_app_knapsack-->  
-036.	set cover	<!--_app_set_cover-->  
+034. <a href="034_job_sequencing_with_integer_lengths.ipynb">job sequence</a>  
+035. <a href="035_knapsack_with_integer_weights.ipynb">knapsack</a>  
+036. <a href="036_set_cover.ipynb">set cover</a>  
+
