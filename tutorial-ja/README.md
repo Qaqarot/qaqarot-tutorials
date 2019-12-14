@@ -6,10 +6,16 @@ Blueqat日本語チュートリアル
 
 目次
 --------------------
+
+ステップ１：量子計算の基礎
+--------------------
 001. <a href="001_basic_one_qubit.ipynb">１量子ビットの基本の操作を覚える</a>  
 002. <a href="002_basic_two_qubits.ipynb">２量子ビットの基本の操作を覚える</a>  
 003. <a href="003_basic_superposition.ipynb">量子重ね合わせと測定</a>  
 004. <a href="004_basic_entanglement.ipynb">量子のもつれ</a>  
+
+ステップ２：量子ゲートの基礎
+--------------------
 005. <a href="005_basic_toffoli.ipynb">トフォリゲート</a>  
 006. <a href="006_basic_swap.ipynb">swapゲート</a>  
 007. <a href="007_basic_control.ipynb">制御ゲート</a>  
@@ -17,7 +23,10 @@ Blueqat日本語チュートリアル
 008. <a href="008_basic_general.ipynb">汎用計算の基礎</a>  
 009. <a href="009_basic_adder_hadamard.ipynb">重ね合わせを使った足し算</a>  
 010. <a href="010_basic_multi.ipynb">乗算回路</a>  
-011. <a href="011_basic_ghz.ipynb">GHZ状態。３量子ビットの量子もつれ</a>  
+011. <a href="011_basic_ghz.ipynb">GHZ状態。３量子ビットの量子もつれ</a> 
+
+ステップ3：量子アルゴリズム
+--------------------
 012. <a href="012_algo_teleportation.ipynb">量子テレポーテーション</a>  
 013. <a href="013_algo_qft.ipynb">量子フーリエ変換</a>  
 014. <a href="014_algo_grover.ipynb">グローバーのアルゴリズム</a>  
@@ -27,8 +36,14 @@ Blueqat日本語チュートリアル
 018.	Bernstein-Vaziraniのアルゴリズム	<!--_algo_bernstein_vazirani-->  
 019.	Simonのアルゴリズム	<!--_algo_simon-->  
 020.	位相推定	<!--_algo_pea-->  
+
+ステップ4：NISQアルゴリズム
+--------------------
 021. <a href="021_algo_vqe.ipynb">VQE</a>  
 022. <a href="022_algo_qaoa.ipynb">QAOA</a>  
+
+ステップ４：組み合わせ最適化問題
+--------------------
 023. <a href="023_anneal_jij.ipynb">Jij</a>  
 024. <a href="024_anneal_qubo.ipynb">QUBO</a>  
 025.	maxcut	<!--_app_maxcut-->  
