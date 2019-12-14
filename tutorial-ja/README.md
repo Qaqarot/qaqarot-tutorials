@@ -50,8 +50,8 @@ Blueqat日本語チュートリアル
 026. <a href="026_one_plus_one.ipynb">1+1</a>  
 027. <a href="027_numberpartitioning.ipynb">自然数分割問題</a>    
 028. <a href="028_BIL.ipynb">BIL</a>   
-029.	クリークカバー	<!--_app_clique_cover-->  
-030.	クリーク	<!--_app_cliques-->  
+029. <a href="029_clique_cover.ipynb">クリークカバー</a>   
+030. <a href="030_clique.ipynb">クリーク</a>  
 031.	エグザクトカバー	<!--_app_exact_cover-->  
 032.	色塗り分け	<!--_app_graph_coloring-->  
 033.	graph	<!--_app_job-->  
