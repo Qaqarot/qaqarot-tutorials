@@ -52,9 +52,9 @@ Blueqat日本語チュートリアル
 028. <a href="028_BIL.ipynb">BIL</a>   
 029. <a href="029_clique_cover.ipynb">クリークカバー</a>   
 030. <a href="030_clique.ipynb">クリーク</a>  
-031.	エグザクトカバー	<!--_app_exact_cover-->  
-032.	色塗り分け	<!--_app_graph_coloring-->  
-033.	graph	<!--_app_job-->  
+031. <a href="031_exact_cover.ipynb">エグザクトカバー</a>  
+032. <a href="032_graph_coloring.ipynb">色塗り分け</a>  
+033. <a href="033_graph_partitioning.ipynb">graph</a>  
 034.	job sequence	<!--_app_graph_partitioning-->  
 035.	knapsack	<!--_app_knapsack-->  
 036.	set cover	<!--_app_set_cover-->  
