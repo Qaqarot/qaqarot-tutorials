@@ -58,4 +58,8 @@ Blueqat日本語チュートリアル
 034. <a href="034_job_sequencing_with_integer_lengths.ipynb">job sequence</a>  
 035. <a href="035_knapsack_with_integer_weights.ipynb">knapsack</a>  
 036. <a href="036_set_cover.ipynb">set cover</a>  
+037. <a href="037_set_packing.ipynb">set packing</a>  
+038. <a href="038_travelingsalesman.ipynb">巡回セールスマン</a>  
+039. <a href="039_vertex_cover.ipynb">vertex cover</a>  
+040. <a href="040_traffic_flow_optimization.ipynb">交通最適化</a>  
 
