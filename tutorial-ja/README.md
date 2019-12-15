@@ -42,7 +42,7 @@ Blueqat日本語チュートリアル
 021. <a href="021_algo_vqe.ipynb">VQE</a>  
 022. <a href="022_algo_qaoa.ipynb">QAOA</a>  
 
-ステップ４：組み合わせ最適化問題
+ステップ5：組み合わせ最適化問題
 --------------------
 023. <a href="023_anneal_jij.ipynb">Jij</a>  
 024. <a href="024_anneal_qubo.ipynb">QUBO</a>  
@@ -62,4 +62,19 @@ Blueqat日本語チュートリアル
 038. <a href="038_travelingsalesman.ipynb">巡回セールスマン</a>  
 039. <a href="039_vertex_cover.ipynb">vertex cover</a>  
 040. <a href="040_traffic_flow_optimization.ipynb">交通最適化</a>  
+041. <a href="041_boolean_reduction.ipynb">３体問題の分解</a>  
+042. <a href="042_portfolio_optimization.ipynb">ポートフォリオ最適化</a>  
+043. <a href="043_prime_factorization.ipynb">最適化問題で素因数分解</a>  
+044. <a href="044_rbm_sampling.ipynb">制限付きボルツマンマシン</a>  
+045. <a href="045_weak_strong_cluster.ipynb">Weak-Strong Cluster問題</a>  
+046. <a href="046_protein_foldings.ipynb">タンパク質折りたたみ問題</a>    
+047. <a href="047_QUBO_to_Pauli.ipynb">QUBOからパウリ行列へ</a>  
+050. <a href="050_qgate.ipynb">NVIDIA GPUでQgateを使った計算</a>    
 
+Authors
+----------
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(TerraSky), [Seiya Sugo](https://github.com/seiya-sugo)(TerraSky)
+
+Disclaimer
+----------
+Copyright 2019 The Blueqat Developers.
