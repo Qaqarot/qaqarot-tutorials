@@ -73,7 +73,7 @@ Blueqat日本語チュートリアル
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(TerraSky), [Seiya Sugo](https://github.com/seiya-sugo)(TerraSky)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix)
 
 Disclaimer
 ----------
