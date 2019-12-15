@@ -69,6 +69,9 @@ Blueqat日本語チュートリアル
 045. <a href="045_weak_strong_cluster.ipynb">Weak-Strong Cluster問題</a>  
 046. <a href="046_protein_foldings.ipynb">タンパク質折りたたみ問題</a>    
 047. <a href="047_QUBO_to_Pauli.ipynb">QUBOからパウリ行列へ</a>  
+
+ステップ6：ハイパフォーマンスマシン
+--------------------
 050. <a href="050_qgate.ipynb">NVIDIA GPUでQgateを使った計算</a>    
 
 Authors
