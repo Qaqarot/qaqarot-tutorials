@@ -59,3 +59,22 @@ step5. basic optimization algorithm
 035.	graph partitioning	<!--_app_graph_partitioning-->
 036.	knapsack	<!--_app_knapsack-->
 037.	set cover	<!--_app_set_cover-->
+038.  
+039.  
+040.  
+041.  
+042.  
+043.  
+044.  
+045.  
+046.  
+047.  
+050.  
+
+Authors
+----------
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(TerraSky), [Seiya Sugo](https://github.com/seiya-sugo)(TerraSky)
+
+Disclaimer
+----------
+Copyright 2018 The Blueqat Developers.
