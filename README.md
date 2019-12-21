@@ -3,7 +3,7 @@ Blueqat Tutorial
 
 Here we provide tutorials on ipython. It is easy to learn quantum computing by checking code on python.
 
-step1. basic operation of quantum logic gate
+step1. operation of quantum logic gate
 --------------------
 
 001. <a href="tutorial/001_basic_circuit.ipynb">basic 1qubit operation</a>
@@ -22,7 +22,7 @@ step2. advanced operation of quantum logic gate
 010. <a href="tutorial/010_basic_multi.ipynb">multiplier</a>
 011. <a href="tutorial/011_basic_ghz.ipynb">GHZ</a>
 
-step3. basic quantum algorithm
+step3. quantum algorithms
 --------------------
 
 012. <a href="tutorial/012_algo_teleportation.ipynb">quantum teleportation</a>
@@ -35,29 +35,29 @@ step3. basic quantum algorithm
 019.	Simon's algorithm	<!--_algo_simon-->
 020.	Phase Estimation Algorithm	<!--_algo_pea-->
 
-step4. basic NISQ algorithm
+step4. NISQ algorithms
 --------------------
 
 021. <a href="tutorial/021_algo_vqe.ipynb">Variational Quantum Eigensolver VQE</a>
 022. <a href="tutorial/022_algo_qaoa.ipynb">QAOA</a>
 023. <a href="tutorial/023_h2_on_vqe.ipynb">H2 on VQE</a>
 
-step5. basic optimization algorithm
+step5. Optimization algorithms
 --------------------
 
-024.	<a href="tutorial/024_jij.ipynb">Jij</a>
-025.	<a href="tutorial/025_qubo.ipynb">QUBO</a>
-026.	<a href="tutorial/026_maxcut.ipynb">maxcut</a>
-027.	<a href="tutorial/027_one_plus_one.ipynb">1+1</a>
-028.	number partitioning	<!--_app_number_partitioning-->
-029.	BIL	<!--_app_bil-->
-030.	clique cover	<!--_app_clique_cover-->
-031.	cliques	<!--_app_cliques-->
-032.	exact cover	<!--_app_exact_cover-->
-033.	graph coloring	<!--_app_graph_coloring-->
-034.	job sequence	<!--_app_job-->
-035.	graph partitioning	<!--_app_graph_partitioning-->
-036.	knapsack	<!--_app_knapsack-->
+024.	<a href="tutorial/024_jij.ipynb">Jij</a>  
+025.	<a href="tutorial/025_qubo.ipynb">QUBO</a>  
+026.	<a href="tutorial/026_maxcut.ipynb">maxcut</a>  
+027.	<a href="tutorial/027_one_plus_one.ipynb">1+1</a>  
+028.	<a href="tutorial/028_numberpartitioning.ipynb">number partitioning</a>  
+029.	<a href="tutorial/029_BIL.ipynb">BIL</a>  
+030.	<a href="tutorial/030_clique_cover.ipynb">clique cover</a>  
+031.	<a href="tutorial/031_cliques.ipynb">cliques</a>  
+032.	<a href="tutorial/032_exact_cover.ipynb">exact cover</a>  
+033.	<a href="tutorial/033_graph_coloring.ipynb">graph coloring</a>  
+034.	<a href="tutorial/034_graph_partitioning.ipynb">graph partitioning</a>  
+035.	<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">job sequence</a>  
+036.	<a href="tutorial/036_knapsack_with_integer_weights.ipynb">knapsack</a>  
 037.	set cover	<!--_app_set_cover-->
 038.  
 039.  
@@ -69,12 +69,15 @@ step5. basic optimization algorithm
 045.  
 046.  
 047.  
-050.  
+
+step6. high performance machines
+--------------------
+050.  <a href="tutorial/050_qgate.ipynb">Qgate</a>
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), Keiichiro Higa(Devel)
 
 Disclaimer
 ----------
-Copyright 2018 The Blueqat Developers.
+Copyright 2019 The Blueqat Developers.
