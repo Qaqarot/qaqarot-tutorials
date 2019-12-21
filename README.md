@@ -58,17 +58,17 @@ step5. Optimization algorithms
 034.	<a href="tutorial/034_graph_partitioning.ipynb">graph partitioning</a>  
 035.	<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">job sequence</a>  
 036.	<a href="tutorial/036_knapsack_with_integer_weights.ipynb">knapsack</a>  
-037.	set cover	<!--_app_set_cover-->
-038.  
-039.  
-040.  
-041.  
-042.  
-043.  
-044.  
-045.  
-046.  
-047.  
+037.	<a href="tutorial/037_set_cover.ipynb">set cover</a>  
+038.  <a href="tutorial/038_set_packing.ipynb">set packing</a>  
+039.  <a href="tutorial/039_tsp.ipynb">Travelling Salesman</a>  
+040.  <a href="tutorial/040_vertex_cover.ipynb">Vertext Cover</a>  
+041.  <a href="tutorial/041_traffic_flow_optimization.ipynb">Traffic Flow Optimization</a>  
+042.  <a href="tutorial/042_boolean_reduction.ipynb">Boolean Reduction</a>    
+043.  <a href="tutorial/043_portfolio_optimization.ipynb">Portfolio Optimization</a>  
+044.  <a href="tutorial/044_prime_factorization.ipynb">Prime Factorization</a>  
+045.  <a href="tutorial/045_weak_strong_cluster.ipynb">Weak Strong Cluster</a> 
+046.  <a href="tutorial/046_protein_foldings.ipynb">Protein foldings</a>  
+047.  <a href="tutorial/047_QUBO_to_Pauli.ipynb">QUBO to Pauli</a>  
 
 step6. high performance machines
 --------------------
