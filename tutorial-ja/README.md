@@ -74,6 +74,17 @@ Blueqat日本語チュートリアル
 --------------------
 050. <a href="050_qgate.ipynb">NVIDIA GPUでQgateを使った計算</a>    
 
+ステップ7：Variational Quantum Eigensolver(VQE)、QAOAセミナー
+--------------------
+101. <a href="101_vqe_qaoa01.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー1</a>  
+102. <a href="102_vqe_qaoa02.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー2</a>  
+103. <a href="103_vqe_qaoa03.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー3</a>  
+104. <a href="104_vqe_qaoa04.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー4</a>  
+105. <a href="105_vqe_qaoa05.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー5</a>  
+106. <a href="106_vqe_qaoa06.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー6</a>  
+107. <a href="107_vqe_qaoa07.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー7</a>  
+
+
 Authors
 ----------
 [Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), Keiichiro Higa(Devel)
