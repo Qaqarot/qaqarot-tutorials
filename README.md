@@ -73,6 +73,17 @@ step5. Optimization algorithms
 step6. high performance machines
 --------------------
 050.  <a href="tutorial/050_qgate.ipynb">Qgate</a>
+051.  <a href="tutorial/051_classical_opt.ipynb">Classical Optimizer</a>
+
+step7. VQE and QAOA 
+--------------------
+101.  Theory on VQE
+102.  VQE and quantum chemistry
+103.  Combinatorial optimization
+104.  Combinatorial optimization
+105.  Combinatorial optimization
+106.  Quantum Alternating Operator Ansatz
+107.  Classical setting part
 
 Authors
 ----------
@@ -80,4 +91,4 @@ Authors
 
 Disclaimer
 ----------
-Copyright 2019 The Blueqat Developers.
+Copyright 2020 The Blueqat Developers.
