@@ -73,6 +73,7 @@ Blueqat日本語チュートリアル
 ステップ6：ハイパフォーマンスマシン
 --------------------
 050. <a href="050_qgate.ipynb">NVIDIA GPUでQgateを使った計算</a>    
+051. <a href="051_classical_opt.ipynb">古典最適化アルゴリズムを設定する</a>    
 
 ステップ7：Variational Quantum Eigensolver(VQE)、QAOAセミナー
 --------------------
