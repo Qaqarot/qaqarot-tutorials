@@ -83,7 +83,7 @@ step7. VQE and QAOA
 104.  Combinatorial optimization
 105.  Combinatorial optimization
 106.  Quantum Alternating Operator Ansatz
-107.  Classical setting part
+107.  <a href="tutorial/107_vqe_qaoa07.ipynb">Classical setting part</a>
 
 Authors
 ----------
