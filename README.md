@@ -79,9 +79,9 @@ step7. VQE and QAOA
 --------------------
 101.  <a href="tutorial/101_vqe_qaoa01.ipynb">Theory on VQE</a>
 102.  <a href="tutorial/102_vqe_qaoa02.ipynb">VQE and quantum chemistry</a>
-103.  Combinatorial optimization
+103.  <a href="tutorial/103_vqe_qaoa03.ipynb">Combinatorial Optimization Problems on Variational Quantum Eigensolver(VQE) and QAOA</a>
 104.  Combinatorial optimization
-105.  Combinatorial optimization
+105.  <a href="tutorial/105_vqe_qaoa05.ipynb">Traffic flow optimization problem on QAOA</a>
 106.  Quantum Alternating Operator Ansatz
 107.  <a href="tutorial/107_vqe_qaoa07.ipynb">Classical setting part</a>
 
