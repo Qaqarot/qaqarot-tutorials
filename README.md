@@ -78,7 +78,7 @@ step6. high performance machines
 step7. VQE and QAOA 
 --------------------
 101.  <a href="tutorial/101_vqe_qaoa01.ipynb">Theory on VQE</a>
-102.  VQE and quantum chemistry
+102.  <a href="tutorial/102_vqe_qaoa02.ipynb">VQE and quantum chemistry</a>
 103.  Combinatorial optimization
 104.  Combinatorial optimization
 105.  Combinatorial optimization
