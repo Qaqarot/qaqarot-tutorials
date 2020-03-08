@@ -74,6 +74,7 @@ Blueqat日本語チュートリアル
 --------------------
 050. <a href="050_qgate.ipynb">NVIDIA GPUでQgateを使った計算</a>    
 051. <a href="051_classical_opt.ipynb">古典最適化アルゴリズムを設定する</a>    
+052. <a href="052_backend1.ipynb">blueqatのオリジナルバックエンドを作る1</a>
 
 ステップ7：Variational Quantum Eigensolver(VQE)、QAOAセミナー
 --------------------
