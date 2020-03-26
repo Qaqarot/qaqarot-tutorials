@@ -9,7 +9,7 @@ Blueqat日本語チュートリアル
 
 ステップ１：量子計算の基礎
 --------------------
-001. <a href="001_basic_one_qubit.ipynb">１量子ビットの基本の操作を覚える</a>  
+001. <a href="001_basic_one_qubit.ipynb">１量子ビットの基本の操作を覚える</a>  <a href="001_02_one_qubit.ipynb">概要</a>
 002. <a href="002_basic_two_qubits.ipynb">２量子ビットの基本の操作を覚える</a>  
 003. <a href="003_basic_superposition.ipynb">量子重ね合わせと測定</a>  
 004. <a href="004_basic_entanglement.ipynb">量子のもつれ</a>  
@@ -88,7 +88,7 @@ Blueqat日本語チュートリアル
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), Keiichiro Higa(Devel)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel)
 
 Disclaimer
 ----------
