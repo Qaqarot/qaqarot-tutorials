@@ -32,7 +32,7 @@ Blueqat日本語チュートリアル
 014. <a href="014_algo_grover.ipynb">グローバーのアルゴリズム</a>  (<a href="014_02_grover_overview.ipynb">概要</a>)
 015. <a href="015_algo_pea_simple.ipynb">簡易量子位相推定</a>  
 016.	Deutschのアルゴリズム   (<a href="016_02_algo_Deutsch_overview.ipynb">概要</a>)
-017.	Deutsch-Jozsaのアルゴリズム	<!--_algo_deutsch-->  
+017.	Deutsch-Jozsaのアルゴリズム	(<a href="017_02_algo_Deutsch-Jozsa_overview.ipynb">概要</a>)<!--_algo_deutsch-->  
 018.	Bernstein-Vaziraniのアルゴリズム	<!--_algo_bernstein_vazirani-->  
 019.	Simonのアルゴリズム	<!--_algo_simon-->  
 020.	位相推定	<!--_algo_pea-->  
