@@ -18,12 +18,12 @@ Blueqat日本語チュートリアル
 --------------------
 005. <a href="005_basic_toffoli.ipynb">トフォリゲート</a>  
 006. <a href="006_basic_swap.ipynb">swapゲート</a>  
-007. <a href="007_basic_control.ipynb">制御ゲート</a>  (<a href="007_control_overview.ipynb">概要</a>)  
+007. <a href="007_basic_control.ipynb">制御ゲート</a>
 007_2. <a href="007_02_fullgate.ipynb">全部のゲート操作</a>
-008. <a href="008_basic_general.ipynb">汎用計算の基礎</a>  (<a href="008_02_general_overview.ipynb">概要</a>)
-009. <a href="009_basic_adder_hadamard.ipynb">重ね合わせを使った足し算</a>  (<a href="009_02_adder_hadamard_overview.ipynb">概要</a>)
-010. <a href="010_basic_multi.ipynb">乗算回路</a>  (<a href="010_02_multi_overview.ipynb">概要</a>)
-011. <a href="011_basic_ghz.ipynb">GHZ状態。３量子ビットの量子もつれ</a>  (<a href="011_02_ghz_overview.ipynb">概要</a>)
+008. <a href="008_basic_general.ipynb">汎用計算の基礎</a>
+009. <a href="009_basic_adder_hadamard.ipynb">重ね合わせを使った足し算</a>
+010. <a href="010_basic_multi.ipynb">乗算回路</a>
+011. <a href="011_basic_ghz.ipynb">GHZ状態。３量子ビットの量子もつれ</a>
 
 ステップ3：量子アルゴリズム
 --------------------
