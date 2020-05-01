@@ -27,9 +27,9 @@ Blueqat日本語チュートリアル
 
 ステップ3：量子アルゴリズム
 --------------------
-012. <a href="012_algo_teleportation.ipynb">量子テレポーテーション</a>  (<a href="012_02_teleportation_overview.ipynb">概要</a>)
-013. <a href="013_algo_qft.ipynb">量子フーリエ変換</a>  (<a href="013_02_qft_overview.ipynb">概要</a>)
-014. <a href="014_algo_grover.ipynb">グローバーのアルゴリズム</a>  (<a href="014_02_grover_overview.ipynb">概要</a>)
+012. <a href="012_algo_teleportation.ipynb">量子テレポーテーション</a>
+013. <a href="013_algo_qft.ipynb">量子フーリエ変換</a>
+014. <a href="014_algo_grover.ipynb">グローバーのアルゴリズム</a>
 015. <a href="015_algo_pea_simple.ipynb">簡易量子位相推定</a>  
 016.	Deutschのアルゴリズム   (<a href="016_02_algo_Deutsch_overview.ipynb">概要</a>)
 017.	Deutsch-Jozsaのアルゴリズム	(<a href="017_02_algo_Deutsch-Jozsa_overview.ipynb">概要</a>)<!--_algo_deutsch-->  
