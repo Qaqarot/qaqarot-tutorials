@@ -10,16 +10,16 @@ Blueqat日本語チュートリアル
 ステップ１：量子計算の基礎
 --------------------
 001. <a href="001_basic_one_qubit.ipynb">１量子ビットの基本の操作を覚える</a>
-002. <a href="002_basic_two_qubits.ipynb">２量子ビットの基本の操作を覚える</a>  (<a href="002_02_two_qubits_overview.ipynb">概要</a>)
-003. <a href="003_basic_superposition.ipynb">量子重ね合わせと測定</a>  (<a href="003_02_superposition_overview.ipynb">概要</a>)
-004. <a href="004_basic_entanglement.ipynb">量子のもつれ</a>  (<a href="004_02_entanglement_overview.ipynb">概要</a>)
+002. <a href="002_basic_two_qubits.ipynb">２量子ビットの基本の操作を覚える</a>
+003. <a href="003_basic_superposition.ipynb">量子重ね合わせと測定</a>
+004. <a href="004_basic_entanglement.ipynb">量子のもつれ</a>
 
 ステップ２：量子ゲートの基礎
 --------------------
 005. <a href="005_basic_toffoli.ipynb">トフォリゲート</a>  
 006. <a href="006_basic_swap.ipynb">swapゲート</a>  
 007. <a href="007_basic_control.ipynb">制御ゲート</a>  (<a href="007_control_overview.ipynb">概要</a>)  
-007_2. <a href="007_02_fullgate.ipynb">全部のゲート操作</a>  (<a href="007_02_fullgate_overview.ipynb">概要</a>)
+007_2. <a href="007_02_fullgate.ipynb">全部のゲート操作</a>
 008. <a href="008_basic_general.ipynb">汎用計算の基礎</a>  (<a href="008_02_general_overview.ipynb">概要</a>)
 009. <a href="009_basic_adder_hadamard.ipynb">重ね合わせを使った足し算</a>  (<a href="009_02_adder_hadamard_overview.ipynb">概要</a>)
 010. <a href="010_basic_multi.ipynb">乗算回路</a>  (<a href="010_02_multi_overview.ipynb">概要</a>)
