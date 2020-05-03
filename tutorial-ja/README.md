@@ -86,6 +86,9 @@ Blueqat日本語チュートリアル
 106. <a href="106_vqe_qaoa06.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー6</a>  
 107. <a href="107_vqe_qaoa07.ipynb">Variational Quantum Eigensolver(VQE)、QAOAセミナー7</a>  
 
+ステップ8：量子機械学習
+--------------------
+150. <a href="150_grad.ipynb">数値積分と勾配法</a>  
 
 Authors
 ----------
