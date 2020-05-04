@@ -68,18 +68,15 @@ step5. Optimization algorithms
 |34.|graph partitioning|グラフ分割|<a href="tutorial/034_graph_partitioning.ipynb">en</a>|<a href="tutorial-ja/033_graph_partitioning.ipynb">ja</a>|
 |35.|job sequence|量子フーリエ変換|<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">en</a>|<a href="tutorial-ja/034_job_sequencing_with_integer_lengths.ipynb">ja</a>|
 |36.|knapsack|ナップサック|<a href="tutorial/036_knapsack_with_integer_weights.ipynb">en</a>|<a href="tutorial-ja/035_knapsack_with_integer_weights.ipynb">ja</a>|
-|37.|set cover|簡易量子位相推定|<a href="tutorial/037_set_cover.ipynb">en</a>|<a href="tutorial-ja/036_set_cover.ipynb">ja</a>|
-|38.|set packing|量子フーリエ変換|<a href="tutorial/038_set_packing.ipynb">en</a>|<a href="tutorial-ja/037_set_packing.ipynb">ja</a>|
+|37.|set cover|set cover|<a href="tutorial/037_set_cover.ipynb">en</a>|<a href="tutorial-ja/036_set_cover.ipynb">ja</a>|
+|38.|set packing|set packing|<a href="tutorial/038_set_packing.ipynb">en</a>|<a href="tutorial-ja/037_set_packing.ipynb">ja</a>|
 |39.|Travelling Salesman|巡回セールスマン問題|<a href="tutorial/039_tsp.ipynb">en</a>|<a href="tutorial-ja/038_tsp.ipynb">ja</a>|
-|40.|Vertext Cover|簡易量子位相推定|<a href="tutorial/040_vertex_cover.ipynb">en</a>|<a href="tutorial-ja/039_vertex_cover.ipynb">ja</a>|
+|40.|Vertext Cover|vertex cover|<a href="tutorial/040_vertex_cover.ipynb">en</a>|<a href="tutorial-ja/039_vertex_cover.ipynb">ja</a>|
 |41.|Traffic Flow Optimization|交通最適化|<a href="tutorial/041_traffic_flow_optimization.ipynb">en</a>|<a href="tutorial-ja/040_traffic_flow_optimization.ipynb">ja</a>|
 |42.|Boolean Reduction|３体問題の分解|<a href="tutorial/042_boolean_reduction.ipynb">en</a>|<a href="tutorial-ja/041_boolean_reduction.ipynb">ja</a>|
 |43.|Portfolio Optimization|ポートフォリオ最適化|<a href="tutorial/043_portfolio_optimization.ipynb">en</a>|<a href="tutorial-ja/042_portfolio_optimization.ipynb">ja</a>|
 |44.|Prime Factorization|最適化問題で素因数分解|<a href="tutorial/044_prime_factorization.ipynb">en</a>|<a href="tutorial-ja/043_prime_factorization.ipynb">ja</a>|
-
-<!-- 追加 -->
-|45.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/044_rbm_sampling.ipynb">ja</a>|
-
+|45.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/044_rbm_sampling.ipynb">ja</a>| <!-- 追加 -->
 |46.|Weak Strong Cluster|Weak-Strong Cluster問題|<a href="tutorial/045_weak_strong_cluster.ipynb">en</a>|<a href="tutorial-ja/045_weak_strong_cluster.ipynb">ja</a>|
 |47.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/046_protein_foldings.ipynb">en</a>|<a href="tutorial-ja/046_protein_foldings.ipynb">ja</a>|
 |48.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
