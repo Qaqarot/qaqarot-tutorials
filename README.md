@@ -81,7 +81,7 @@ step5. Optimization algorithms
 |47.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/046_protein_foldings.ipynb">en</a>|<a href="tutorial-ja/046_protein_foldings.ipynb">ja</a>|
 |48.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
 
-step6. high performance machines
+step6. High performance machines
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -92,13 +92,23 @@ step6. high performance machines
 
 step7. VQE and QAOA 
 --------------------
-101.  <a href="tutorial/101_vqe_qaoa01.ipynb">Theory on VQE</a>
-102.  <a href="tutorial/102_vqe_qaoa02.ipynb">VQE and quantum chemistry</a>
-103.  Combinatorial optimization
-104.  Combinatorial optimization
-105.  Combinatorial optimization
-106.  Quantum Alternating Operator Ansatz
-107.  <a href="tutorial/107_vqe_qaoa07.ipynb">Classical setting part</a>
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|101.|Theory on VQE|VQEの理論|<a href="tutorial/101_vqe_qaoa01.ipynb">en</a>|<a href="tutorial-ja/101_vqe_qaoa01.ipynb">ja</a>|
+|102.|VQE and quantum chemistry|VQEと量子化学|<a href="tutorial/102_vqe_qaoa02.ipynb">en</a>|<a href="tutorial-ja/102_vqe_qaoa02.ipynb">ja</a>|
+|103.|Combinatorial optimization|組合せ最適化問題1|en|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
+|104.|Combinatorial optimization|組合せ最適化問題2|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
+|105.|Combinatorial optimization|組合せ最適化問題3|en|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
+|106.|Quantum Alternating Operator Ansatz|Quantum Alternating Operator Ansatz|en|<a href="tutorial-ja/106_vqe_qaoa06.ipynb">ja</a>|
+|107.|Classical setting part|古典最適化部分の設定|<a href="tutorial/107_vqe_qaoa07.ipynb">en</a>|<a href="tutorial-ja/107_vqe_qaoa07.ipynb">ja</a>|
+
+step8. Quantum machine learning
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|150.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/150_grad.ipynb">ja</a>|
 
 Authors
 ----------
