@@ -83,8 +83,12 @@ step5. Optimization algorithms
 
 step6. high performance machines
 --------------------
-050.  <a href="tutorial/050_qgate.ipynb">Qgate</a>
-051.  <a href="tutorial/051_classical_opt.ipynb">Classical Optimizer</a>
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|50.|Qgate|Jij|<a href="tutorial/050_qgate.ipynb">en</a>|<a href="tutorial-ja/050_qgate.ipynb">ja</a>|
+|51.|Classical Optimizer|QUBO|<a href="tutorial/051_classical_opt.ipynb">en</a>|<a href="tutorial-ja/051_classical_opt.ipynb">ja</a>|
+|52.|Original backend for blueqat|blueqatのオリジナルバックエンドを作る1|en|<a href="tutorial-ja/052_backend1.ipynb">ja</a>|
 
 step7. VQE and QAOA 
 --------------------
