@@ -29,15 +29,17 @@ step2. advanced operation of quantum logic gate
 step3. quantum algorithms
 --------------------
 
-012. <a href="tutorial/012_algo_teleportation.ipynb">quantum teleportation</a>
-013. <a href="tutorial/013_algo_qft.ipynb">quantum fourier transform</a>
-014. <a href="tutorial/014_algo_grover.ipynb">grover's algorithm</a>
-015. <a href="tutorial/015_algo_pea_simple.ipynb">simple phase estimation</a>
-016.	Deutsch's algorithm	<!--_algo_deutsch-->
-017.	Deutsch-Jozsa's algorithm	<!--_algo_deutsch-->
-018.	Bernstein-Vazirani's algorithm	<!--_algo_bernstein_vazirani-->
-019.	Simon's algorithm	<!--_algo_simon-->
-020.	Phase Estimation Algorithm	<!--_algo_pea-->
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|12.|quantum teleportation|量子テレポーテーション|<a href="tutorial/012_algo_teleportation.ipynb">en</a>|<a href="tutorial-ja/012_algo_teleportation.ipynb">ja</a>|
+|13.|quantum fourier transform|量子フーリエ変換|<a href="tutorial/013_algo_qft.ipynb">en</a>|<a href="tutorial-ja/013_algo_qft.ipynb">ja</a>|
+|14.|grover's algorithm|グローバーのアルゴリズム|<a href="tutorial/014_algo_grover.ipynb">en</a>|<a href="tutorial-ja/014_algo_grover.ipynb">ja</a>|
+|15.|simple phase estimation|簡易量子位相推定|<a href="tutorial/015_algo_pea_simple.ipynb">en</a>|<a href="tutorial-ja/015_algo_pea_simple.ipynb">ja</a>|
+|16.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja| <!--_algo_deutsch-->
+|17.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja| <!--_algo_deutsch-->
+|18.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja| <!--_algo_bernstein_vazirani-->
+|19.|Simon's algorithm|Simonのアルゴリズム|en|ja| <!--_algo_simon-->
+|20.|Phase Estimation Algorithm|位相推定|en|ja| <!--_algo_pea-->
 
 step4. NISQ algorithms
 --------------------
@@ -91,7 +93,7 @@ step7. VQE and QAOA
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), Keiichiro Higa(Devel)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel)
 
 Disclaimer
 ----------
