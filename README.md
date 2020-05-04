@@ -6,28 +6,25 @@ Here we provide tutorials on ipython. It is easy to learn quantum computing by c
 step1. operation of quantum logic gate
 --------------------
 
-|Index|Title|タイトル|Link|リンク|
+|No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |1.|basic 1qubit operation|１量子ビットの基本の操作を覚える|<a href="tutorial/001_basic_circuit.ipynb">en</a>|<a href="tutorial-ja/001_basic_one_qubit.ipynb">ja</a>|
 |2.|basic 2qubits operations|２量子ビットの基本の操作を覚える|<a href="tutorial/002_basic_two_qubits.ipynb">en</a>|<a href="tutorial-ja/002_basic_two_qubits.ipynb">ja</a>|
 |3.|superposition and observation|量子重ね合わせと測定|<a href="tutorial/003_basic_superposition.ipynb">en</a>|<a href="tutorial-ja/003_basic_superposition.ipynb">ja</a>|
 |4.|entanglement|量子のもつれ|<a href="tutorial/004_basic_entanglement.ipynb">en</a>|<a href="tutorial-ja/004_basic_entanglement.ipynb">ja</a>|
 
-<!-- 001. <a href="tutorial/001_basic_circuit.ipynb">basic 1qubit operation</a>
-002. <a href="tutorial/002_basic_two_qubits.ipynb">basic 2qubits operations</a>
-003. <a href="tutorial/003_basic_superposition.ipynb">superposition and observation</a>
-004. <a href="tutorial/004_basic_entanglement.ipynb">entanglement</a> -->
-
 step2. advanced operation of quantum logic gate
 --------------------
 
-005. <a href="tutorial/005_basic_toffoli.ipynb">toffoli gate</a>
-006. <a href="tutorial/006_basic_swap.ipynb">swap gate</a>
-007. <a href="tutorial/007_basic_control.ipynb">controlled gate</a>
-008. <a href="tutorial/008_basic_general.ipynb">basic universal computing</a>
-009. <a href="tutorial/009_basic_adder_hadamard.ipynb">adder with hadamard</a>
-010. <a href="tutorial/010_basic_multi.ipynb">multiplier</a>
-011. <a href="tutorial/011_basic_ghz.ipynb">GHZ</a>
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|5.|toffoli gate|トフォリゲート|<a href="tutorial/005_basic_toffoli.ipynb">en</a>|<a href="tutorial-ja/005_basic_toffoli.ipynb">ja</a>|
+|6.|swap gate|swapゲート|<a href="tutorial/006_basic_swap.ipynb">en</a>|<a href="tutorial-ja/006_basic_swap.ipynb">ja</a>|
+|7.|controlled gate|制御ゲート|<a href="tutorial/007_basic_control.ipynb">en</a>|<a href="tutorial-ja/007_basic_control.ipynb">ja</a>|
+|8.|basic universal computing|汎用計算の基礎|<a href="tutorial/008_basic_general.ipynb">en</a>|<a href="tutorial-ja/008_basic_general.ipynb">ja</a>|
+|9.|adder with hadamard|重ね合わせを使った足し算|<a href="tutorial/009_basic_adder_hadamard.ipynb">en</a>|<a href="tutorial-ja/009_basic_adder_hadamard.ipynb">ja</a>|
+|10.|multiplier|乗算回路|<a href="tutorial/010_basic_multi.ipynb">en</a>|<a href="tutorial-ja/010_basic_multi.ipynb">ja</a>|
+|11.|GHZ|GHZ状態。３量子ビットの量子もつれ|<a href="tutorial/011_basic_ghz.ipynb">en</a>|<a href="tutorial-ja/011_basic_ghz.ipynb">ja</a>|
 
 step3. quantum algorithms
 --------------------
