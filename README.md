@@ -6,10 +6,17 @@ Here we provide tutorials on ipython. It is easy to learn quantum computing by c
 step1. operation of quantum logic gate
 --------------------
 
-001. <a href="tutorial/001_basic_circuit.ipynb">basic 1qubit operation</a>
+|Index|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|001.|basic 1qubit operation|１量子ビットの基本の操作を覚える|<a href="tutorial/001_basic_circuit.ipynb">en</a>|<a href="tutorial-ja/001_basic_one_qubit.ipynb">ja</a>|
+|002.|basic 2qubits operations|２量子ビットの基本の操作を覚える|<a href="tutorial/002_basic_two_qubits.ipynb">en</a>|<a href="tutorial-ja/002_basic_two_qubits.ipynb">ja</a>|
+|003.|superposition and observation|量子重ね合わせと測定|<a href="tutorial/003_basic_superposition.ipynb">en</a>|<a href="tutorial-ja/003_basic_superposition.ipynb">ja</a>|
+|004.|entanglement|量子のもつれ|<a href="tutorial/004_basic_entanglement.ipynb">en</a>|<a href="tutorial-ja/004_basic_entanglement.ipynb">ja</a>|
+
+<!-- 001. <a href="tutorial/001_basic_circuit.ipynb">basic 1qubit operation</a>
 002. <a href="tutorial/002_basic_two_qubits.ipynb">basic 2qubits operations</a>
 003. <a href="tutorial/003_basic_superposition.ipynb">superposition and observation</a>
-004. <a href="tutorial/004_basic_entanglement.ipynb">entanglement</a>
+004. <a href="tutorial/004_basic_entanglement.ipynb">entanglement</a> -->
 
 step2. advanced operation of quantum logic gate
 --------------------
