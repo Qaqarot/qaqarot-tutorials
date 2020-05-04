@@ -44,9 +44,11 @@ step3. quantum algorithms
 step4. NISQ algorithms
 --------------------
 
-021. <a href="tutorial/021_algo_vqe.ipynb">Variational Quantum Eigensolver VQE</a>
-022. <a href="tutorial/022_algo_qaoa.ipynb">QAOA</a>
-023. <a href="tutorial/023_h2_on_vqe.ipynb">H2 on VQE</a>
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|21.|Variational Quantum Eigensolver VQE|VQE|<a href="tutorial/021_algo_vqe.ipynb">en</a>|<a href="tutorial-ja/021_algo_vqe.ipynb">ja</a>|
+|22.|QAOA|QAOA|<a href="tutorial/022_algo_qaoa.ipynb">en</a>|<a href="tutorial-ja/022_algo_qaoa.ipynb">ja</a>|
+|23.|H2 on VQE|VQEでH2分子を考える|<a href="tutorial/023_h2_on_vqe.ipynb">en</a>|ja|
 
 step5. Optimization algorithms
 --------------------
