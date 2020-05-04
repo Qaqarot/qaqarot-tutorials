@@ -53,30 +53,36 @@ step4. NISQ algorithms
 step5. Optimization algorithms
 --------------------
 
-024.	<a href="tutorial/024_jij.ipynb">Jij</a>  
-025.	<a href="tutorial/025_qubo.ipynb">QUBO</a>  
-026.	<a href="tutorial/026_maxcut.ipynb">maxcut</a>  
-027.	<a href="tutorial/027_one_plus_one.ipynb">1+1</a>  
-028.	<a href="tutorial/028_numberpartitioning.ipynb">number partitioning</a>  
-029.	<a href="tutorial/029_BIL.ipynb">BIL</a>  
-030.	<a href="tutorial/030_clique_cover.ipynb">clique cover</a>  
-031.	<a href="tutorial/031_cliques.ipynb">cliques</a>  
-032.	<a href="tutorial/032_exact_cover.ipynb">exact cover</a>  
-033.	<a href="tutorial/033_graph_coloring.ipynb">graph coloring</a>  
-034.	<a href="tutorial/034_graph_partitioning.ipynb">graph partitioning</a>  
-035.	<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">job sequence</a>  
-036.	<a href="tutorial/036_knapsack_with_integer_weights.ipynb">knapsack</a>  
-037.	<a href="tutorial/037_set_cover.ipynb">set cover</a>  
-038.  <a href="tutorial/038_set_packing.ipynb">set packing</a>  
-039.  <a href="tutorial/039_tsp.ipynb">Travelling Salesman</a>  
-040.  <a href="tutorial/040_vertex_cover.ipynb">Vertext Cover</a>  
-041.  <a href="tutorial/041_traffic_flow_optimization.ipynb">Traffic Flow Optimization</a>  
-042.  <a href="tutorial/042_boolean_reduction.ipynb">Boolean Reduction</a>    
-043.  <a href="tutorial/043_portfolio_optimization.ipynb">Portfolio Optimization</a>  
-044.  <a href="tutorial/044_prime_factorization.ipynb">Prime Factorization</a>  
-045.  <a href="tutorial/045_weak_strong_cluster.ipynb">Weak Strong Cluster</a> 
-046.  <a href="tutorial/046_protein_foldings.ipynb">Protein foldings</a>  
-047.  <a href="tutorial/047_QUBO_to_Pauli.ipynb">QUBO to Pauli</a>  
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|24.|Jij|Jij|<a href="tutorial/024_jij.ipynb">en</a>|<a href="tutorial-ja/023_anneal_jij.ipynb">ja</a>|
+|25.|QUBO|QUBO|<a href="tutorial/025_qubo.ipynb">en</a>|<a href="tutorial-ja/024_anneal_qubo.ipynb">ja</a>|
+|26.|maxcut|maxcut|<a href="tutorial/026_maxcut.ipynb">en</a>|<a href="tutorial-ja/025_maxcut.ipynb">ja</a>|
+|27.|1+1|1+1|<a href="tutorial/027_one_plus_one.ipynb">en</a>|<a href="tutorial-ja/026_one_plus_one.ipynb">ja</a>|
+|28.|number partitioning|自然数分割問題|<a href="tutorial/028_numberpartitioning.ipynb">en</a>|<a href="tutorial-ja/027_numberpartitioning.ipynb">ja</a>|
+|29.|BIL|BIL|<a href="tutorial/029_BIL.ipynb">en</a>|<a href="tutorial-ja/028_BIL.ipynb">ja</a>|
+|30.|clique cover|クリークカバー|<a href="tutorial/030_clique_cover.ipynb">en</a>|<a href="tutorial-ja/029_clique_cover.ipynb">ja</a>|
+|31.|cliques|クリーク|<a href="tutorial/031_cliques.ipynb">en</a>|<a href="tutorial-ja/030_cliques.ipynb">ja</a>|
+|32.|exact cover|エグザクトカバー|<a href="tutorial/032_exact_cover.ipynb">en</a>|<a href="tutorial-ja/031_exact_cover.ipynb">ja</a>|
+|33.|graph coloring|色塗り分け|<a href="tutorial/033_graph_coloring.ipynb">en</a>|<a href="tutorial-ja/032_graph_coloring.ipynb">ja</a>|
+|34.|graph partitioning|グラフ分割|<a href="tutorial/034_graph_partitioning.ipynb">en</a>|<a href="tutorial-ja/033_graph_partitioning.ipynb">ja</a>|
+|35.|job sequence|量子フーリエ変換|<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">en</a>|<a href="tutorial-ja/034_job_sequencing_with_integer_lengths.ipynb">ja</a>|
+|36.|knapsack|ナップサック|<a href="tutorial/036_knapsack_with_integer_weights.ipynb">en</a>|<a href="tutorial-ja/035_knapsack_with_integer_weights.ipynb">ja</a>|
+|37.|set cover|簡易量子位相推定|<a href="tutorial/037_set_cover.ipynb">en</a>|<a href="tutorial-ja/036_set_cover.ipynb">ja</a>|
+|38.|set packing|量子フーリエ変換|<a href="tutorial/038_set_packing.ipynb">en</a>|<a href="tutorial-ja/037_set_packing.ipynb">ja</a>|
+|39.|Travelling Salesman|巡回セールスマン問題|<a href="tutorial/039_tsp.ipynb">en</a>|<a href="tutorial-ja/038_tsp.ipynb">ja</a>|
+|40.|Vertext Cover|簡易量子位相推定|<a href="tutorial/040_vertex_cover.ipynb">en</a>|<a href="tutorial-ja/039_vertex_cover.ipynb">ja</a>|
+|41.|Traffic Flow Optimization|交通最適化|<a href="tutorial/041_traffic_flow_optimization.ipynb">en</a>|<a href="tutorial-ja/040_traffic_flow_optimization.ipynb">ja</a>|
+|42.|Boolean Reduction|３体問題の分解|<a href="tutorial/042_boolean_reduction.ipynb">en</a>|<a href="tutorial-ja/041_boolean_reduction.ipynb">ja</a>|
+|43.|Portfolio Optimization|ポートフォリオ最適化|<a href="tutorial/043_portfolio_optimization.ipynb">en</a>|<a href="tutorial-ja/042_portfolio_optimization.ipynb">ja</a>|
+|44.|Prime Factorization|最適化問題で素因数分解|<a href="tutorial/044_prime_factorization.ipynb">en</a>|<a href="tutorial-ja/043_prime_factorization.ipynb">ja</a>|
+
+<!-- 追加 -->
+|45.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/044_rbm_sampling.ipynb">ja</a>|
+
+|46.|Weak Strong Cluster|Weak-Strong Cluster問題|<a href="tutorial/045_weak_strong_cluster.ipynb">en</a>|<a href="tutorial-ja/045_weak_strong_cluster.ipynb">ja</a>|
+|47.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/046_protein_foldings.ipynb">en</a>|<a href="tutorial-ja/046_protein_foldings.ipynb">ja</a>|
+|48.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
 
 step6. high performance machines
 --------------------
