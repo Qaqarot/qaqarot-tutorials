@@ -39,7 +39,6 @@ step3. quantum algorithms
 |17.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja| <!--_algo_deutsch-->
 |18.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja| <!--_algo_bernstein_vazirani-->
 |19.|Simon's algorithm|Simonのアルゴリズム|en|ja| <!--_algo_simon-->
-|20.|Phase Estimation Algorithm|位相推定|en|ja| <!--_algo_pea-->
 
 step4. NISQ algorithms
 --------------------
