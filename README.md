@@ -34,7 +34,7 @@ step3. quantum algorithms
 |12.|quantum teleportation|量子テレポーテーション|<a href="tutorial/012_algo_teleportation.ipynb">en</a>|<a href="tutorial-ja/012_algo_teleportation.ipynb">ja</a>|
 |13.|quantum fourier transform|量子フーリエ変換|<a href="tutorial/013_algo_qft.ipynb">en</a>|<a href="tutorial-ja/013_algo_qft.ipynb">ja</a>|
 |14.|grover's algorithm|グローバーのアルゴリズム|<a href="tutorial/014_algo_grover.ipynb">en</a>|<a href="tutorial-ja/014_algo_grover.ipynb">ja</a>|
-|15.|simple phase estimation|簡易量子位相推定|<a href="tutorial/015_algo_pea.ipynb">en</a>|<a href="tutorial-ja/015_algo_pea.ipynb">ja</a>|
+|15.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/015_algo_pea.ipynb">en</a>|<a href="tutorial-ja/015_algo_pea.ipynb">ja</a>|
 |16.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja| <!--_algo_deutsch-->
 |17.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja| <!--_algo_deutsch-->
 |18.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja| <!--_algo_bernstein_vazirani-->
