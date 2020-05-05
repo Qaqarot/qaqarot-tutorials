@@ -96,7 +96,7 @@ step7. VQE and QAOA
 |:---|:---|:---|:---|:---|
 |101.|Theory on VQE|VQEの理論|<a href="tutorial/101_vqe_qaoa01.ipynb">en</a>|<a href="tutorial-ja/101_vqe_qaoa01.ipynb">ja</a>|
 |102.|VQE and quantum chemistry|VQEと量子化学|<a href="tutorial/102_vqe_qaoa02.ipynb">en</a>|<a href="tutorial-ja/102_vqe_qaoa02.ipynb">ja</a>|
-|103.|Combinatorial Optimization Problems on VQE and QAOA|VQEとQAOAで組合せ最適|<a href="tutorial/103_vqe_qaoa03.ipynb">en</a>|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
+|103.|Combinatorial Optimization Problems <br> on Variational Quantum Eigensolver(VQE) and QAOA|VQEとQAOAで組合せ最適|<a href="tutorial/103_vqe_qaoa03.ipynb">en</a>|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
 |104.|Combinatorial optimization|組合せ最適化問題|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
 |105.|Traffic flow optimization problem on QAOA|QAOAで交通流最適|<a href="tutorial/105_vqe_qaoa05.ipynb">en</a>|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
 |106.|Quantum Alternating Operator Ansatz|Quantum Alternating Operator Ansatz|<a href="tutorial/106_vqe_qaoa06.ipynb">en</a>|<a href="tutorial-ja/106_vqe_qaoa06.ipynb">ja</a>|
