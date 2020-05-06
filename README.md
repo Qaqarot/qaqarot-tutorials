@@ -34,12 +34,11 @@ step3. quantum algorithms
 |12.|quantum teleportation|量子テレポーテーション|<a href="tutorial/012_algo_teleportation.ipynb">en</a>|<a href="tutorial-ja/012_algo_teleportation.ipynb">ja</a>|
 |13.|quantum fourier transform|量子フーリエ変換|<a href="tutorial/013_algo_qft.ipynb">en</a>|<a href="tutorial-ja/013_algo_qft.ipynb">ja</a>|
 |14.|grover's algorithm|グローバーのアルゴリズム|<a href="tutorial/014_algo_grover.ipynb">en</a>|<a href="tutorial-ja/014_algo_grover.ipynb">ja</a>|
-|15.|simple phase estimation|簡易量子位相推定|<a href="tutorial/015_algo_pea.ipynb">en</a>|<a href="tutorial-ja/015_algo_pea.ipynb">ja</a>|
+|15.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/015_algo_pea.ipynb">en</a>|<a href="tutorial-ja/015_algo_pea.ipynb">ja</a>|
 |16.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja| <!--_algo_deutsch-->
 |17.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja| <!--_algo_deutsch-->
 |18.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja| <!--_algo_bernstein_vazirani-->
 |19.|Simon's algorithm|Simonのアルゴリズム|en|ja| <!--_algo_simon-->
-|20.|Phase Estimation Algorithm|位相推定|en|ja| <!--_algo_pea-->
 
 step4. NISQ algorithms
 --------------------
@@ -65,7 +64,7 @@ step5. Optimization algorithms
 |31.|exact cover|エグザクトカバー|<a href="tutorial/032_exact_cover.ipynb">en</a>|<a href="tutorial-ja/031_exact_cover.ipynb">ja</a>|
 |32.|graph coloring|色塗り分け|<a href="tutorial/033_graph_coloring.ipynb">en</a>|<a href="tutorial-ja/032_graph_coloring.ipynb">ja</a>|
 |33.|graph partitioning|グラフ分割|<a href="tutorial/034_graph_partitioning.ipynb">en</a>|<a href="tutorial-ja/033_graph_partitioning.ipynb">ja</a>|
-|34.|job sequence|量子フーリエ変換|<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">en</a>|<a href="tutorial-ja/034_job_sequencing_with_integer_lengths.ipynb">ja</a>|
+|34.|job sequence|ジョブシークエンス|<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">en</a>|<a href="tutorial-ja/034_job_sequencing_with_integer_lengths.ipynb">ja</a>|
 |35.|knapsack|ナップサック|<a href="tutorial/036_knapsack_with_integer_weights.ipynb">en</a>|<a href="tutorial-ja/035_knapsack_with_integer_weights.ipynb">ja</a>|
 |36.|set cover|set cover|<a href="tutorial/037_set_cover.ipynb">en</a>|<a href="tutorial-ja/036_set_cover.ipynb">ja</a>|
 |37.|set packing|set packing|<a href="tutorial/038_set_packing.ipynb">en</a>|<a href="tutorial-ja/037_set_packing.ipynb">ja</a>|
