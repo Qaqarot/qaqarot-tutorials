@@ -8,17 +8,17 @@ step1. operation of quantum logic gate
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|1.|basic 1qubit operation|１量子ビットの基本の操作を覚える|<a href="tutorial/001_basic_circuit.ipynb">en</a>|<a href="tutorial-ja/001_basic_one_qubit.ipynb">ja</a>|
-|2.|basic 2qubits operations|２量子ビットの基本の操作を覚える|<a href="tutorial/002_basic_two_qubits.ipynb">en</a>|<a href="tutorial-ja/002_basic_two_qubits.ipynb">ja</a>|
-|3.|superposition and observation|量子重ね合わせと測定|<a href="tutorial/003_basic_superposition.ipynb">en</a>|<a href="tutorial-ja/003_basic_superposition.ipynb">ja</a>|
-|4.|entanglement|量子のもつれ|<a href="tutorial/004_basic_entanglement.ipynb">en</a>|<a href="tutorial-ja/004_basic_entanglement.ipynb">ja</a>|
+|1.|basic 1qubit operation|１量子ビットの基本の操作を覚える|<a href="tutorial/001_basic_circuit.ipynb">en</a>|<a href="tutorial-ja/001_basic_one_qubit_ja.ipynb">ja</a>|
+|2.|basic 2qubits operations|２量子ビットの基本の操作を覚える|<a href="tutorial/002_basic_two_qubits.ipynb">en</a>|<a href="tutorial-ja/002_basic_two_qubits_ja.ipynb">ja</a>|
+|3.|superposition and observation|量子重ね合わせと測定|<a href="tutorial/003_basic_superposition.ipynb">en</a>|<a href="tutorial-ja/003_basic_superposition_ja.ipynb">ja</a>|
+|4.|entanglement|量子のもつれ|<a href="tutorial/004_basic_entanglement.ipynb">en</a>|<a href="tutorial-ja/004_basic_entanglement_ja.ipynb">ja</a>|
 
 step2. advanced operation of quantum logic gate
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|5.|toffoli gate|トフォリゲート|<a href="tutorial/005_basic_toffoli.ipynb">en</a>|<a href="tutorial-ja/005_basic_toffoli.ipynb">ja</a>|
+|5.|toffoli gate|トフォリゲート|<a href="tutorial/005_basic_toffoli.ipynb">en</a>|<a href="tutorial-ja/005_basic_toffoli_ja.ipynb">ja</a>|
 |6.|swap gate|swapゲート|<a href="tutorial/006_basic_swap.ipynb">en</a>|<a href="tutorial-ja/006_basic_swap.ipynb">ja</a>|
 |7.|full gate|全ゲート|<a href="tutorial/007_fullgate.ipynb">en</a>|<a href="tutorial-ja/007_fullgate.ipynb">ja</a>|
 |8.|basic universal computing|汎用計算の基礎|<a href="tutorial/008_basic_general.ipynb">en</a>|<a href="tutorial-ja/008_basic_general.ipynb">ja</a>|
@@ -85,7 +85,7 @@ step6. High performance machines
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |50.|Qgate|Jij|<a href="tutorial/050_qgate.ipynb">en</a>|<a href="tutorial-ja/050_qgate.ipynb">ja</a>|
-|51.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/051_classical_opt.ipynb">en</a>|<a href="tutorial-ja/051_classical_opt.ipynb">ja</a>|
+|51.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/051_classical_opt.ipynb">en</a>|<a href="tutorial-ja/051_classical_opt_ja.ipynb">ja</a>|
 |52.|Original backend for blueqat|blueqatのオリジナルバックエンドを作る1|en|<a href="tutorial-ja/052_backend1.ipynb">ja</a>|
 
 step7. VQE and QAOA 
