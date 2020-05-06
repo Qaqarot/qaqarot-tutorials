@@ -18,18 +18,27 @@ Step2. Advanced Operation of Quantum Logic Gate
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|005.|Toffoli Gate|トフォリゲート|<a href="tutorial/005_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/005_toffoli_ja.ipynb">ja</a>|
-|006.|Swap Gate|スワップゲート|<a href="tutorial/006_swap_en.ipynb">en</a>|<a href="tutorial-ja/006_swap_ja.ipynb">ja</a>|
-|007.|Full Gate|全ゲート|<a href="tutorial/007_fullgate_en.ipynb">en</a>|<a href="tutorial-ja/007_fullgate_ja.ipynb">ja</a>|
-|008.|Adder|たし算|<a href="tutorial/008_adder_en.ipynb">en</a>|<a href="tutorial-ja/008_adder_ja.ipynb">ja</a>|
-|009.|Multiplier|かけ算|<a href="tutorial/009_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/009_multiplier_ja.ipynb">ja</a>|
-|010.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/010_ghz_en.ipynb">en</a>|<a href="tutorial-ja/010_ghz_ja.ipynb">ja</a>|
+|005.|Single Rotation Gate|回転ゲート|en|ja|
+|006.|U1,U2,U3 Gate|U1,U2,U3ゲート|en|ja|
+|007.|T,S Gate|T,Sゲート|en|ja|
+|008.|CX,CY,CZ Gate|CX,CY,CZゲート|en|ja|
+|009.|CRX,CRY,CRZ Gate|CRX,CRY,CRZゲート|en|ja|
+|010.|CU1,CU2,CU3 Gate|CU1,CU2,CU3ゲート|en|ja|
+|011.|Swap Gate|スワップゲート|<a href="tutorial/006_swap_en.ipynb">en</a>|<a href="tutorial-ja/006_swap_ja.ipynb">ja</a>|
+|012.|RXX,RYY,RZZ Gate|RXX,RYY,RZZゲート|en|ja|
+|013.|Toffoli Gate|トフォリゲート|<a href="tutorial/005_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/005_toffoli_ja.ipynb">ja</a>|
+|014.|Full Gate|全ゲート|<a href="tutorial/007_fullgate_en.ipynb">en</a>|<a href="tutorial-ja/007_fullgate_ja.ipynb">ja</a>|
 
 Step3. Universal Quantum Algorithms
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
+|100.|Adder|たし算|<a href="tutorial/008_adder_en.ipynb">en</a>|<a href="tutorial-ja/008_adder_ja.ipynb">ja</a>|
+|101.|Substractor|ひき算|<a href="tutorial/008_adder_en.ipynb">en</a>|<a href="tutorial-ja/008_adder_ja.ipynb">ja</a>|
+|102.|Multiplier|かけ算|<a href="tutorial/009_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/009_multiplier_ja.ipynb">ja</a>|
+|103.|Modulus|剰余演算|en|ja|
+|110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/010_ghz_en.ipynb">en</a>|<a href="tutorial-ja/010_ghz_ja.ipynb">ja</a>|
 |111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/011_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/011_teleportation_ja.ipynb">ja</a>|
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/012_qft_en.ipynb">en</a>|<a href="tutorial-ja/012_qft_ja.ipynb">ja</a>|
 |113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/013_pea_en.ipynb">en</a>|<a href="tutorial-ja/013_pea_ja.ipynb">ja</a>|
@@ -39,6 +48,9 @@ Step3. Universal Quantum Algorithms
 |118.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
 |119.|Simon's algorithm|Simonのアルゴリズム|en|ja|
 |120.|Shor's algorithm|Shorのアルゴリズム|en|ja|
+|121.|HHL algorithm|HLLアルゴリズム|en|ja|
+|122.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
+|123.|Time Evolution|時間発展|en|ja|
 
 Step4. NISQ Variational Algorithms
 --------------------
@@ -47,12 +59,8 @@ Step4. NISQ Variational Algorithms
 |:---|:---|:---|:---|:---|
 |200.|Variational Quantum Eigensolver VQE|VQE|<a href="tutorial/200_vqe_en.ipynb">en</a>|<a href="tutorial-ja/200_vqe_ja.ipynb">ja</a>|
 |201.|Quantum Approximate Optimization Algorithm QAOA|QAOA|<a href="tutorial/201_qaoa_en.ipynb">en</a>|<a href="tutorial-ja/201_qaoa_ja.ipynb">ja</a>|
-|102.|VQE and quantum chemistry|VQEと量子化学|<a href="tutorial/102_vqe_qaoa02.ipynb">en</a>|<a href="tutorial-ja/102_vqe_qaoa02.ipynb">ja</a>|
-|103.|Combinatorial Optimization Problems <br> on Variational Quantum Eigensolver(VQE) and QAOA|VQEとQAOAで組合せ最適|<a href="tutorial/103_vqe_qaoa03.ipynb">en</a>|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
-|104.|Combinatorial optimization|組合せ最適化問題|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
 
-
-step5. NISQ Quantum Machine Learning
+Step5. NISQ Quantum Machine Learning
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -60,11 +68,13 @@ step5. NISQ Quantum Machine Learning
 |200.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/200_grad_ja.ipynb">ja</a>|
 
 
-step6. Optimization Algorithms with Quantum Annealing and QAOA
+Step6. Optimization Algorithms with Quantum Annealing and QAOA
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
+|103.|Combinatorial Optimization Problems <br> on Variational Quantum Eigensolver(VQE) and QAOA|VQEとQAOAで組合せ最適|<a href="tutorial/103_vqe_qaoa03.ipynb">en</a>|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
+|104.|Combinatorial optimization|組合せ最適化問題|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
 |323.|Jij|Jij|<a href="tutorial/024_jij.ipynb">en</a>|<a href="tutorial-ja/023_anneal_jij.ipynb">ja</a>|
 |324.|QUBO|QUBO|<a href="tutorial/025_qubo.ipynb">en</a>|<a href="tutorial-ja/024_anneal_qubo.ipynb">ja</a>|
 |325.|maxcut|maxcut|<a href="tutorial/026_maxcut.ipynb">en</a>|<a href="tutorial-ja/025_maxcut.ipynb">ja</a>|
@@ -92,7 +102,21 @@ step6. Optimization Algorithms with Quantum Annealing and QAOA
 |347.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
 |105.|Traffic flow optimization problem on QAOA|QAOAで交通流最適|<a href="tutorial/105_vqe_qaoa05.ipynb">en</a>|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
 
-step8. Advanced Settings
+Step7. Quantum Chemistry with VQE
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|400.|Quantum Chemistry and VQE|量子化学計算とVQE|<a href="tutorial/102_vqe_qaoa02.ipynb">en</a>|<a href="tutorial-ja/102_vqe_qaoa02.ipynb">ja</a>|
+
+Step8. Error Correction
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|700.|Error Correction|誤り訂正|en|ja|
+
+Step9. Advanced Settings
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
