@@ -85,7 +85,7 @@ step6. High performance machines
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |50.|Qgate|Jij|<a href="tutorial/050_qgate.ipynb">en</a>|<a href="tutorial-ja/050_qgate.ipynb">ja</a>|
-|51.|Classical Optimizer|QUBO|<a href="tutorial/051_classical_opt.ipynb">en</a>|<a href="tutorial-ja/051_classical_opt.ipynb">ja</a>|
+|51.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/051_classical_opt.ipynb">en</a>|<a href="tutorial-ja/051_classical_opt.ipynb">ja</a>|
 |52.|Original backend for blueqat|blueqatのオリジナルバックエンドを作る1|en|<a href="tutorial-ja/052_backend1.ipynb">ja</a>|
 
 step7. VQE and QAOA 
@@ -99,7 +99,6 @@ step7. VQE and QAOA
 |104.|Combinatorial optimization|組合せ最適化問題|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
 |105.|Traffic flow optimization problem on QAOA|QAOAで交通流最適|<a href="tutorial/105_vqe_qaoa05.ipynb">en</a>|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
 |106.|Quantum Alternating Operator Ansatz|Quantum Alternating Operator Ansatz|<a href="tutorial/106_vqe_qaoa06.ipynb">en</a>|<a href="tutorial-ja/106_vqe_qaoa06.ipynb">ja</a>|
-|107.|Classical setting part|古典最適化部分の設定|<a href="tutorial/107_vqe_qaoa07.ipynb">en</a>|<a href="tutorial-ja/107_vqe_qaoa07.ipynb">ja</a>|
 
 step8. Quantum machine learning
 --------------------
