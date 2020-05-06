@@ -96,7 +96,6 @@ Step6. Combinatorial Optimization Algorithms
 |344.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/044_rbm_sampling.ipynb">ja</a>|
 |345.|Weak Strong Cluster|Weak-Strong Cluster問題|<a href="tutorial/045_weak_strong_cluster.ipynb">en</a>|<a href="tutorial-ja/045_weak_strong_cluster.ipynb">ja</a>|
 |346.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/046_protein_foldings.ipynb">en</a>|<a href="tutorial-ja/046_protein_foldings.ipynb">ja</a>|
-|347.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
 |105.|Traffic flow optimization problem on QAOA|QAOAで交通流最適|<a href="tutorial/105_vqe_qaoa05.ipynb">en</a>|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
 
 Step7. Quantum Chemistry with VQE
