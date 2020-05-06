@@ -74,8 +74,6 @@ Step6. Combinatorial Optimization Algorithms
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |300.|Combinatorial Optimization Problems|組合せ最適化問題|<a href="tutorial/300_cop_en.ipynb">en</a>|<a href="tutorial-ja/300_cop_ja.ipynb">ja</a>|
-|323.|Jij|Jij|<a href="tutorial/024_jij.ipynb">en</a>|<a href="tutorial-ja/023_anneal_jij.ipynb">ja</a>|
-|324.|QUBO|QUBO|<a href="tutorial/025_qubo.ipynb">en</a>|<a href="tutorial-ja/024_anneal_qubo.ipynb">ja</a>|
 |325.|maxcut|maxcut|<a href="tutorial/026_maxcut.ipynb">en</a>|<a href="tutorial-ja/025_maxcut.ipynb">ja</a>|
 |326.|1+1|1+1|<a href="tutorial/027_one_plus_one.ipynb">en</a>|<a href="tutorial-ja/026_one_plus_one.ipynb">ja</a>|
 |327.|number partitioning|自然数分割問題|<a href="tutorial/028_numberpartitioning.ipynb">en</a>|<a href="tutorial-ja/027_numberpartitioning.ipynb">ja</a>|
