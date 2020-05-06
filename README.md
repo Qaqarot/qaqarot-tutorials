@@ -70,13 +70,12 @@ Step5. NISQ Quantum Machine Learning
 |200.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/200_grad_ja.ipynb">ja</a>|
 
 
-Step6. Optimization Algorithms with Quantum Annealing and QAOA
+Step6. Combinatorial Optimization Algorithms
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|103.|Combinatorial Optimization Problems <br> on Variational Quantum Eigensolver(VQE) and QAOA|VQEとQAOAで組合せ最適|<a href="tutorial/103_vqe_qaoa03.ipynb">en</a>|<a href="tutorial-ja/103_vqe_qaoa03.ipynb">ja</a>|
-|104.|Combinatorial optimization|組合せ最適化問題|en|<a href="tutorial-ja/104_vqe_qaoa04.ipynb">ja</a>|
+|300.|Combinatorial Optimization Problems|組合せ最適化問題|<a href="tutorial/300_cop_en.ipynb">en</a>|<a href="tutorial-ja/300_cop_ja.ipynb">ja</a>|
 |323.|Jij|Jij|<a href="tutorial/024_jij.ipynb">en</a>|<a href="tutorial-ja/023_anneal_jij.ipynb">ja</a>|
 |324.|QUBO|QUBO|<a href="tutorial/025_qubo.ipynb">en</a>|<a href="tutorial-ja/024_anneal_qubo.ipynb">ja</a>|
 |325.|maxcut|maxcut|<a href="tutorial/026_maxcut.ipynb">en</a>|<a href="tutorial-ja/025_maxcut.ipynb">ja</a>|
