@@ -60,7 +60,7 @@ step5. NISQ Quantum Machine Learning
 |200.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/200_grad_ja.ipynb">ja</a>|
 
 
-step5. Optimization Algorithms with Quantum Annealing and QAOA
+step6. Optimization Algorithms with Quantum Annealing and QAOA
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -92,7 +92,7 @@ step5. Optimization Algorithms with Quantum Annealing and QAOA
 |347.|QUBO to Pauli|QUBOからパウリ行列へ|<a href="tutorial/047_QUBO_to_Pauli.ipynb">en</a>|<a href="tutorial-ja/047_QUBO_to_Pauli.ipynb">ja</a>|
 |105.|Traffic flow optimization problem on QAOA|QAOAで交通流最適|<a href="tutorial/105_vqe_qaoa05.ipynb">en</a>|<a href="tutorial-ja/105_vqe_qaoa05.ipynb">ja</a>|
 
-step6. Advanced Settings
+step8. Advanced Settings
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
