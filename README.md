@@ -97,7 +97,7 @@ step6. Advanced Settings
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|400.|Qgate|Jij|<a href="tutorial/400_qgate_en.ipynb">en</a>|<a href="tutorial-ja/400_qgate_ja.ipynb">ja</a>|
+|400.|Qgate|Qgate|<a href="tutorial/400_qgate_en.ipynb">en</a>|<a href="tutorial-ja/400_qgate_ja.ipynb">ja</a>|
 |401.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/401_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/401_optimizer_ja.ipynb">ja</a>|
 |402.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/402_backend1_ja.ipynb">ja</a>|
 |403.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
