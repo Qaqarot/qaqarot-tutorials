@@ -20,7 +20,7 @@ step2. advanced operation of quantum logic gate
 |:---|:---|:---|:---|:---|
 |5.|toffoli gate|トフォリゲート|<a href="tutorial/005_basic_toffoli.ipynb">en</a>|<a href="tutorial-ja/005_basic_toffoli.ipynb">ja</a>|
 |6.|swap gate|swapゲート|<a href="tutorial/006_basic_swap.ipynb">en</a>|<a href="tutorial-ja/006_basic_swap.ipynb">ja</a>|
-|7.|controlled gate|制御ゲート|<a href="tutorial/007_basic_control.ipynb">en</a>|<a href="tutorial-ja/007_basic_control.ipynb">ja</a>|
+|7.|full gate|全ゲート|<a href="tutorial/007_fullgate.ipynb">en</a>|<a href="tutorial-ja/007_fullgate.ipynb">ja</a>|
 |8.|basic universal computing|汎用計算の基礎|<a href="tutorial/008_basic_general.ipynb">en</a>|<a href="tutorial-ja/008_basic_general.ipynb">ja</a>|
 |9.|adder with hadamard|重ね合わせを使った足し算|<a href="tutorial/009_basic_adder_hadamard.ipynb">en</a>|<a href="tutorial-ja/009_basic_adder_hadamard.ipynb">ja</a>|
 |10.|multiplier|乗算回路|<a href="tutorial/010_basic_multi.ipynb">en</a>|<a href="tutorial-ja/010_basic_multi.ipynb">ja</a>|
