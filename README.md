@@ -93,7 +93,7 @@ Step6. Combinatorial Optimization Algorithms
 |317.|Boolean Reduction|３体問題の分解|<a href="tutorial/317_boolean_en.ipynb">en</a>|<a href="tutorial-ja/317_boolean_ja.ipynb">ja</a>|
 |318.|Portfolio Optimization|ポートフォリオ最適化|<a href="tutorial/318_portfolio_en.ipynb">en</a>|<a href="tutorial-ja/318_portfolio_ja.ipynb">ja</a>|
 |319.|Prime Factorization|最適化問題で素因数分解|<a href="tutorial/319_factorization_en.ipynb">en</a>|<a href="tutorial-ja/319_factorization_ja.ipynb">ja</a>|
-|320.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/320_rbm_en.ipynb">ja</a>|
+|320.|Restricted Boltzmann machine|制限付きボルツマンマシン|en|<a href="tutorial-ja/320_rbm_ja.ipynb">ja</a>|
 |321.|Weak Strong Cluster|Weak-Strong Cluster問題|<a href="tutorial/321_weakstrong_en.ipynb">en</a>|<a href="tutorial-ja/321_weakstrong_ja.ipynb">ja</a>|
 |322.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/322_protein_en.ipynb">en</a>|<a href="tutorial-ja/322_protein_ja.ipynb">ja</a>|
 |323.|Clustering|クラスタリング|en|<a href="tutorial-ja/323_clustering_ja.ipynb">ja</a>|
