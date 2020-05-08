@@ -65,7 +65,7 @@ Step5. NISQ Quantum Machine Learning
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|200.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/200_grad_ja.ipynb">ja</a>|
+|250.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/250_grad_ja.ipynb">ja</a>|
 
 
 Step6. Combinatorial Optimization Algorithms
