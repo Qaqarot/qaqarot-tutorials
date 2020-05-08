@@ -24,19 +24,19 @@ Step2. Advanced Operation of Quantum Logic Gate
 |008.|CX,CY,CZ Gate|CX,CY,CZゲート|en|ja|
 |009.|CRX,CRY,CRZ Gate|CRX,CRY,CRZゲート|en|ja|
 |010.|CU1,CU2,CU3 Gate|CU1,CU2,CU3ゲート|en|ja|
-|011.|Swap Gate|スワップゲート|<a href="tutorial/006_swap_en.ipynb">en</a>|<a href="tutorial-ja/006_swap_ja.ipynb">ja</a>|
+|011.|Swap Gate|スワップゲート|<a href="tutorial/011_swap_en.ipynb">en</a>|<a href="tutorial-ja/011_swap_ja.ipynb">ja</a>|
 |012.|RXX,RYY,RZZ Gate|RXX,RYY,RZZゲート|en|ja|
-|013.|Toffoli Gate|トフォリゲート|<a href="tutorial/005_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/005_toffoli_ja.ipynb">ja</a>|
-|014.|Full Gate|全ゲート|<a href="tutorial/007_fullgate_en.ipynb">en</a>|<a href="tutorial-ja/007_fullgate_ja.ipynb">ja</a>|
+|013.|Toffoli Gate|トフォリゲート|<a href="tutorial/013_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/013_toffoli_ja.ipynb">ja</a>|
+|014.|Full Gate|全ゲート|<a href="tutorial/014_fullgate_en.ipynb">en</a>|<a href="tutorial-ja/014_fullgate_ja.ipynb">ja</a>|
 
 Step3. Universal Quantum Algorithms
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|100.|Adder|たし算|<a href="tutorial/008_adder_en.ipynb">en</a>|<a href="tutorial-ja/008_adder_ja.ipynb">ja</a>|
+|100.|Adder|たし算|<a href="tutorial/100_adder_en.ipynb">en</a>|<a href="tutorial-ja/100_adder_ja.ipynb">ja</a>|
 |101.|Substractor|ひき算|en|ja|
-|102.|Multiplier|かけ算|<a href="tutorial/009_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/009_multiplier_ja.ipynb">ja</a>|
+|102.|Multiplier|かけ算|<a href="tutorial/102_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/102_multiplier_ja.ipynb">ja</a>|
 |103.|Modulus|剰余演算|en|ja|
 |110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/010_ghz_en.ipynb">en</a>|<a href="tutorial-ja/010_ghz_ja.ipynb">ja</a>|
 |111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/011_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/011_teleportation_ja.ipynb">ja</a>|
