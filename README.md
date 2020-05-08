@@ -81,7 +81,7 @@ Step6. Combinatorial Optimization Algorithms
 |305.|clique cover|クリークカバー|<a href="tutorial/305_cliquecover_en.ipynb">en</a>|<a href="tutorial-ja/305_cliquecover_ja.ipynb">ja</a>|
 |306.|cliques|クリーク|<a href="tutorial/306_cliques_en.ipynb">en</a>|<a href="tutorial-ja/306_cliques_ja.ipynb">ja</a>|
 |307.|exact cover|エグザクトカバー|<a href="tutorial/307_exactcover_en.ipynb">en</a>|<a href="tutorial-ja/307_exactcover_ja.ipynb">ja</a>|
-|308.|graph coloring|色塗り分け|<a href="tutorial/308_graphcoloring_en.ipynb">en</a>|<a href="tutorial-ja/308_graphcoloring_en.ipynb">ja</a>|
+|308.|graph coloring|色塗り分け|<a href="tutorial/308_graphcoloring_en.ipynb">en</a>|<a href="tutorial-ja/308_graphcoloring_ja.ipynb">ja</a>|
 |309.|graph partitioning|グラフ分割|<a href="tutorial/309_graphpartitioning_en.ipynb">en</a>|<a href="tutorial-ja/309_graphpartitioning_ja.ipynb">ja</a>|
 |310.|job sequence|ジョブシークエンス|<a href="tutorial/310_jobsequencing_en.ipynb">en</a>|<a href="tutorial-ja/310_jobsequencing_ja.ipynb">ja</a>|
 |311.|knapsack|ナップサック|<a href="tutorial/311_knapsack_en.ipynb">en</a>|<a href="tutorial-ja/311_knapsack_ja.ipynb">ja</a>|
