@@ -103,7 +103,7 @@ Step7. Quantum Chemistry with VQE
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|400.|Quantum Chemistry and VQE|量子化学計算とVQE|<a href="tutorial/102_vqe_qaoa02.ipynb">en</a>|<a href="tutorial-ja/102_vqe_qaoa02.ipynb">ja</a>|
+|400.|Quantum Chemistry and VQE|量子化学計算とVQE|<a href="tutorial/400_chemistry_en.ipynb">en</a>|<a href="tutorial-ja/400_chemistry_ja.ipynb">ja</a>|
 
 Step8. Error Correction
 --------------------
@@ -117,9 +117,9 @@ Step9. Advanced Settings
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|600.|Qgate|Qgate|<a href="tutorial/400_qgate_en.ipynb">en</a>|<a href="tutorial-ja/400_qgate_ja.ipynb">ja</a>|
-|601.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/401_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/401_optimizer_ja.ipynb">ja</a>|
-|602.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/402_backend1_ja.ipynb">ja</a>|
+|600.|Qgate|Qgate|<a href="tutorial/600_qgate_en.ipynb">en</a>|<a href="tutorial-ja/600_qgate_ja.ipynb">ja</a>|
+|601.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/601_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/601_optimizer_ja.ipynb">ja</a>|
+|602.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/602_backend1_ja.ipynb">ja</a>|
 |603.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
 
 Authors
