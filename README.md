@@ -38,11 +38,11 @@ Step3. Universal Quantum Algorithms
 |101.|Substractor|ひき算|en|ja|
 |102.|Multiplier|かけ算|<a href="tutorial/102_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/102_multiplier_ja.ipynb">ja</a>|
 |103.|Modulus|剰余演算|en|ja|
-|110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/010_ghz_en.ipynb">en</a>|<a href="tutorial-ja/010_ghz_ja.ipynb">ja</a>|
-|111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/011_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/011_teleportation_ja.ipynb">ja</a>|
-|112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/012_qft_en.ipynb">en</a>|<a href="tutorial-ja/012_qft_ja.ipynb">ja</a>|
-|113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/013_pea_en.ipynb">en</a>|<a href="tutorial-ja/013_pea_ja.ipynb">ja</a>|
-|114.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/014_grover_en.ipynb">en</a>|<a href="tutorial-ja/014_grover_ja.ipynb">ja</a>|
+|110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/110_ghz_en.ipynb">en</a>|<a href="tutorial-ja/110_ghz_ja.ipynb">ja</a>|
+|111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/111_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/111_teleportation_ja.ipynb">ja</a>|
+|112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
+|113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
+|114.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/114_grover_en.ipynb">en</a>|<a href="tutorial-ja/114_grover_ja.ipynb">ja</a>|
 |116.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja|
 |117.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja|
 |118.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
