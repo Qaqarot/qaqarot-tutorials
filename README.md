@@ -74,9 +74,9 @@ Step6. Combinatorial Optimization Algorithms
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |300.|Combinatorial Optimization Problems|組合せ最適化問題|<a href="tutorial/300_cop_en.ipynb">en</a>|<a href="tutorial-ja/300_cop_ja.ipynb">ja</a>|
-|325.|maxcut|maxcut|<a href="tutorial/026_maxcut.ipynb">en</a>|<a href="tutorial-ja/025_maxcut.ipynb">ja</a>|
-|326.|1+1|1+1|<a href="tutorial/027_one_plus_one.ipynb">en</a>|<a href="tutorial-ja/026_one_plus_one.ipynb">ja</a>|
-|327.|number partitioning|自然数分割問題|<a href="tutorial/028_numberpartitioning.ipynb">en</a>|<a href="tutorial-ja/027_numberpartitioning.ipynb">ja</a>|
+|301.|maxcut|maxcut|<a href="tutorial/301_maxcut_en.ipynb">en</a>|<a href="tutorial-ja/301_maxcut_ja.ipynb">ja</a>|
+|302.|1+1|1+1|<a href="tutorial/302_oneplus_en.ipynb">en</a>|<a href="tutorial-ja/302_one_plus_ja.ipynb">ja</a>|
+|303.|number partitioning|自然数分割問題|<a href="tutorial/303_numberpartitioning_en.ipynb">en</a>|<a href="tutorial-ja/303_numberpartitioning_ja.ipynb">ja</a>|
 |328.|BIL|BIL|<a href="tutorial/029_BIL.ipynb">en</a>|<a href="tutorial-ja/028_BIL.ipynb">ja</a>|
 |329.|clique cover|クリークカバー|<a href="tutorial/030_clique_cover.ipynb">en</a>|<a href="tutorial-ja/029_clique_cover.ipynb">ja</a>|
 |330.|cliques|クリーク|<a href="tutorial/031_cliques.ipynb">en</a>|<a href="tutorial-ja/030_cliques.ipynb">ja</a>|
