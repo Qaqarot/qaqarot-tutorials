@@ -77,17 +77,17 @@ Step6. Combinatorial Optimization Algorithms
 |301.|maxcut|maxcut|<a href="tutorial/301_maxcut_en.ipynb">en</a>|<a href="tutorial-ja/301_maxcut_ja.ipynb">ja</a>|
 |302.|1+1|1+1|<a href="tutorial/302_oneplus_en.ipynb">en</a>|<a href="tutorial-ja/302_oneplus_ja.ipynb">ja</a>|
 |303.|number partitioning|自然数分割問題|<a href="tutorial/303_numberpartitioning_en.ipynb">en</a>|<a href="tutorial-ja/303_numberpartitioning_ja.ipynb">ja</a>|
-|328.|BIL|BIL|<a href="tutorial/029_BIL.ipynb">en</a>|<a href="tutorial-ja/028_BIL.ipynb">ja</a>|
-|329.|clique cover|クリークカバー|<a href="tutorial/030_clique_cover.ipynb">en</a>|<a href="tutorial-ja/029_clique_cover.ipynb">ja</a>|
-|330.|cliques|クリーク|<a href="tutorial/031_cliques.ipynb">en</a>|<a href="tutorial-ja/030_cliques.ipynb">ja</a>|
-|331.|exact cover|エグザクトカバー|<a href="tutorial/032_exact_cover.ipynb">en</a>|<a href="tutorial-ja/031_exact_cover.ipynb">ja</a>|
-|332.|graph coloring|色塗り分け|<a href="tutorial/033_graph_coloring.ipynb">en</a>|<a href="tutorial-ja/032_graph_coloring.ipynb">ja</a>|
-|333.|graph partitioning|グラフ分割|<a href="tutorial/034_graph_partitioning.ipynb">en</a>|<a href="tutorial-ja/033_graph_partitioning.ipynb">ja</a>|
-|334.|job sequence|ジョブシークエンス|<a href="tutorial/035_job_sequencing_with_integer_lengths.ipynb">en</a>|<a href="tutorial-ja/034_job_sequencing_with_integer_lengths.ipynb">ja</a>|
-|335.|knapsack|ナップサック|<a href="tutorial/036_knapsack_with_integer_weights.ipynb">en</a>|<a href="tutorial-ja/035_knapsack_with_integer_weights.ipynb">ja</a>|
-|336.|set cover|set cover|<a href="tutorial/037_set_cover.ipynb">en</a>|<a href="tutorial-ja/036_set_cover.ipynb">ja</a>|
-|337.|set packing|set packing|<a href="tutorial/038_set_packing.ipynb">en</a>|<a href="tutorial-ja/037_set_packing.ipynb">ja</a>|
-|338.|Travelling Salesman|巡回セールスマン問題|<a href="tutorial/039_tsp.ipynb">en</a>|<a href="tutorial-ja/038_tsp.ipynb">ja</a>|
+|304.|BIL|BIL|<a href="tutorial/304_BIL_en.ipynb">en</a>|<a href="tutorial-ja/304_BIL_ja.ipynb">ja</a>|
+|305.|clique cover|クリークカバー|<a href="tutorial/305_cliquecover_en.ipynb">en</a>|<a href="tutorial-ja/305_cliquecover_ja.ipynb">ja</a>|
+|306.|cliques|クリーク|<a href="tutorial/306_cliques_en.ipynb">en</a>|<a href="tutorial-ja/306_cliques_ja.ipynb">ja</a>|
+|307.|exact cover|エグザクトカバー|<a href="tutorial/307_exactcover_en.ipynb">en</a>|<a href="tutorial-ja/307_exactcover_ja.ipynb">ja</a>|
+|308.|graph coloring|色塗り分け|<a href="tutorial/308_graphcoloring_en.ipynb">en</a>|<a href="tutorial-ja/308_graphcoloring_en.ipynb">ja</a>|
+|309.|graph partitioning|グラフ分割|<a href="tutorial/309_graphpartitioning_en.ipynb">en</a>|<a href="tutorial-ja/309_graphpartitioning_ja.ipynb">ja</a>|
+|310.|job sequence|ジョブシークエンス|<a href="tutorial/310_jobsequencing_en.ipynb">en</a>|<a href="tutorial-ja/310_jobsequencing_ja.ipynb">ja</a>|
+|311.|knapsack|ナップサック|<a href="tutorial/311_knapsack_en.ipynb">en</a>|<a href="tutorial-ja/311_knapsack_ja.ipynb">ja</a>|
+|312.|set cover|set cover|<a href="tutorial/312_setcover_en.ipynb">en</a>|<a href="tutorial-ja/312_setcover_ja.ipynb">ja</a>|
+|313.|set packing|set packing|<a href="tutorial/313_setpacking_en.ipynb">en</a>|<a href="tutorial-ja/313_setpacking_ja.ipynb">ja</a>|
+|314.|Travelling Salesman|巡回セールスマン問題|<a href="tutorial/314_tsp_en.ipynb">en</a>|<a href="tutorial-ja/314_tsp_ja.ipynb">ja</a>|
 |339.|Vertext Cover|vertex cover|<a href="tutorial/040_vertex_cover.ipynb">en</a>|<a href="tutorial-ja/039_vertex_cover.ipynb">ja</a>|
 |340.|Traffic Flow Optimization|交通最適化|<a href="tutorial/041_traffic_flow_optimization.ipynb">en</a>|<a href="tutorial-ja/040_traffic_flow_optimization.ipynb">ja</a>|
 |341.|Boolean Reduction|３体問題の分解|<a href="tutorial/042_boolean_reduction.ipynb">en</a>|<a href="tutorial-ja/041_boolean_reduction.ipynb">ja</a>|
