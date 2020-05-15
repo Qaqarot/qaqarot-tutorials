@@ -18,7 +18,7 @@ Step2. Advanced Operation of Quantum Logic Gate
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|005.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|en|<a href="tutorial-ja/005_gate_ja.ipynb">ja</a>|
+|005.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|<a href="tutorial/005_gate_en.ipynb">en</a>|<a href="tutorial-ja/005_gate_ja.ipynb">ja</a>|
 |006.|Single Fixed Rotation Gate|固定回転ゲート|en|<a href="tutorial-ja/006_1gate_ja.ipynb">ja</a>|
 |007.|Single Arbitrary Rotation Gate|任意回転ゲート|en|<a href="tutorial-ja/007_rotation_ja.ipynb">ja</a>|
 |008.|Controlled Fixed Rotation Gate|制御固定回転ゲート|en|<a href="tutorial-ja/008_cpauli_ja.ipynb">ja</a>|
