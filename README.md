@@ -23,8 +23,8 @@ Step2. Advanced Operation of Quantum Logic Gate
 |007.|Single Arbitrary Rotation Gate|任意回転ゲート|en|ja|
 |008.|Controlled Fixed Rotation Gate|制御固定回転ゲート|en|ja|
 |009.|Controlled Arbitrary Rotation Gate|制御任意回転ゲート|en|ja|
-|010.|Swap Gate|スワップゲート|<a href="tutorial/011_swap_en.ipynb">en</a>|<a href="tutorial-ja/011_swap_ja.ipynb">ja</a>|
-|011.|Toffoli Gate|トフォリゲート|<a href="tutorial/013_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/013_toffoli_ja.ipynb">ja</a>|
+|010.|Swap Gate|スワップゲート|<a href="tutorial/010_swap_en.ipynb">en</a>|<a href="tutorial-ja/010_swap_ja.ipynb">ja</a>|
+|011.|Toffoli Gate|トフォリゲート|<a href="tutorial/011_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/011_toffoli_ja.ipynb">ja</a>|
 |012.|Ising Gate|イジングゲート|en|ja|
 |013.|Time Evolution Operator|時間発展演算子|en|ja|
 
@@ -49,7 +49,6 @@ Step3. Universal Quantum Algorithms
 |120.|Shor's algorithm|Shorのアルゴリズム|en|ja|
 |121.|HHL algorithm|HLLアルゴリズム|en|ja|
 |122.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
-|123.|Time Evolution|時間発展|<a href="tutorial/123_timeevolution_en.ipynb">en</a>|<a href="tutorial-ja/123_timeevolution_ja.ipynb">ja</a>|
 
 Step4. NISQ Variational Algorithms
 --------------------
