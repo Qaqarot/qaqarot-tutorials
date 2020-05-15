@@ -18,9 +18,10 @@ Step2. Advanced Operation of Quantum Logic Gate
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|005.|Single Rotation Gate|固定回転ゲート|en|ja|
-|006.|Single Arbitrary Rotation Gate|任意回転ゲート|en|ja|
-|008.|Controlled Gate|制御ゲート|en|ja|
+|005.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|en|ja|
+|006.|Single Fixed Rotation Gate|固定回転ゲート|en|ja|
+|007.|Single Arbitrary Rotation Gate|任意回転ゲート|en|ja|
+|008.|Controlled Fixed Rotation Gate|制御固定回転ゲート|en|ja|
 |009.|Controlled Arbitrary Rotation Gate|制御任意回転ゲート|en|ja|
 |011.|Swap Gate|スワップゲート|<a href="tutorial/011_swap_en.ipynb">en</a>|<a href="tutorial-ja/011_swap_ja.ipynb">ja</a>|
 |012.|RXX,RYY,RZZ Gate|RXX,RYY,RZZゲート|en|ja|
