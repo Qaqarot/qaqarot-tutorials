@@ -22,8 +22,7 @@ Step2. Advanced Operation of Quantum Logic Gate
 |006.|U1,U2,U3 Gate|U1,U2,U3ゲート|en|ja|
 |007.|T,S Gate|T,Sゲート|en|ja|
 |008.|CX,CY,CZ Gate|CX,CY,CZゲート|en|ja|
-|009.|CRX,CRY,CRZ Gate|CRX,CRY,CRZゲート|en|ja|
-|010.|CU1,CU2,CU3 Gate|CU1,CU2,CU3ゲート|en|ja|
+|009.|Controlled Rotation Gate|制御任意回転ゲート|en|ja|
 |011.|Swap Gate|スワップゲート|<a href="tutorial/011_swap_en.ipynb">en</a>|<a href="tutorial-ja/011_swap_ja.ipynb">ja</a>|
 |012.|RXX,RYY,RZZ Gate|RXX,RYY,RZZゲート|en|ja|
 |013.|Toffoli Gate|トフォリゲート|<a href="tutorial/013_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/013_toffoli_ja.ipynb">ja</a>|
