@@ -37,7 +37,7 @@ Step3. Universal Quantum Algorithms
 |100.|Adder|たし算|<a href="tutorial/100_adder_en.ipynb">en</a>|<a href="tutorial-ja/100_adder_ja.ipynb">ja</a>|
 |101.|Subtractor|ひき算|<a href="tutorial/101_subtractor_en.ipynb">en</a>|<a href="tutorial-ja/101_subtractor_ja.ipynb">ja</a>|
 |102.|Multiplier|かけ算|<a href="tutorial/102_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/102_multiplier_ja.ipynb">ja</a>|
-|103.|Modulus|剰余演算|en|ja|
+|103.|Modulus|剰余演算|<a href="tutorial/103_modulus_en.ipynb">en</a>|<a href="tutorial-ja/103_modulus_ja.ipynb">ja</a>|
 |110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/110_ghz_en.ipynb">en</a>|<a href="tutorial-ja/110_ghz_ja.ipynb">ja</a>|
 |111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/111_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/111_teleportation_ja.ipynb">ja</a>|
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
