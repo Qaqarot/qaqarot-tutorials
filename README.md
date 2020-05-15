@@ -27,7 +27,6 @@ Step2. Advanced Operation of Quantum Logic Gate
 |011.|Toffoli Gate|トフォリゲート|<a href="tutorial/013_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/013_toffoli_ja.ipynb">ja</a>|
 |012.|Ising Gate|イジングゲート|en|ja|
 |013.|Time Evolution Operator|時間発展演算子|en|ja|
-|014.|Full Gate|全ゲート|<a href="tutorial/014_fullgate_en.ipynb">en</a>|<a href="tutorial-ja/014_fullgate_ja.ipynb">ja</a>|
 
 Step3. Universal Quantum Algorithms
 --------------------
