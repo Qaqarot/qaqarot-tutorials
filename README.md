@@ -25,7 +25,7 @@ Step2. Advanced Operation of Quantum Logic Gate
 |009.|Controlled Arbitrary Rotation Gate|制御任意回転ゲート|<a href="tutorial/009_cr_en.ipynb">en</a>|<a href="tutorial-ja/009_cr_ja.ipynb">ja</a>|
 |010.|Swap Gate|スワップゲート|<a href="tutorial/010_swap_en.ipynb">en</a>|<a href="tutorial-ja/010_swap_ja.ipynb">ja</a>|
 |011.|Toffoli Gate|トフォリゲート|<a href="tutorial/011_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/011_toffoli_ja.ipynb">ja</a>|
-|012.|Ising Gate|イジングゲート|en|ja|
+|012.|Ising Gate|イジングゲート|<a href="tutorial/012_ising_en.ipynb">en</a>|<a href="tutorial-ja/012_ising_ja.ipynb">ja</a>|
 |013.|Time Evolution Operator|時間発展演算子|<a href="tutorial/013_timeevolution_en.ipynb">en</a>|<a href="tutorial-ja/013_timeevolution_ja.ipynb">ja</a>|
 
 Step3. Universal Quantum Algorithms
