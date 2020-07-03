@@ -122,7 +122,7 @@ Step9. Advanced Settings
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(blueqat), [Asa Eagle](https://github.com/Morning777)(blueqat), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel), Ryutaro Nagai(blueqat)
 
 Disclaimer
 ----------
