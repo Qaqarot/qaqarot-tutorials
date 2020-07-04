@@ -36,8 +36,7 @@ Step3. Universal Quantum Algorithms
 |100.|Adder|たし算|<a href="tutorial/100_adder_en.ipynb">en</a>|<a href="tutorial-ja/100_adder_ja.ipynb">ja</a>|
 |101.|Subtractor|ひき算|<a href="tutorial/101_subtractor_en.ipynb">en</a>|<a href="tutorial-ja/101_subtractor_ja.ipynb">ja</a>|
 |102.|Multiplier|かけ算|<a href="tutorial/102_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/102_multiplier_ja.ipynb">ja</a>|
-|103.|Modulus|剰余演算|<a href="tutorial/103_modulus_en.ipynb">en</a>|<a href="tutorial-ja/103_modulus_ja.ipynb">ja</a>|
-|110.|Enganglement of 3qubits|３量子ビットのもつれ|<a href="tutorial/110_ghz_en.ipynb">en</a>|<a href="tutorial-ja/110_ghz_ja.ipynb">ja</a>|
+|110.|GHZ state|GHZ状態|<a href="tutorial/110_ghz_en.ipynb">en</a>|<a href="tutorial-ja/110_ghz_ja.ipynb">ja</a>|
 |111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/111_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/111_teleportation_ja.ipynb">ja</a>|
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
 |113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
@@ -49,6 +48,7 @@ Step3. Universal Quantum Algorithms
 |120.|Shor's algorithm|Shorのアルゴリズム|en|ja|
 |121.|HHL algorithm|HLLアルゴリズム|en|ja|
 |122.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
+|123.|Modulus|剰余演算|<a href="tutorial/123_modulus_en.ipynb">en</a>|<a href="tutorial-ja/123_modulus_ja.ipynb">ja</a>|
 
 Step4. NISQ Variational Algorithms
 --------------------
@@ -64,6 +64,9 @@ Step5. NISQ Quantum Machine Learning
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |250.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/250_grad_ja.ipynb">ja</a>|
+|251.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/251_qcbm_ja.ipynb">ja</a>|
+|252.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/252_TTN_ja.ipynb">ja</a>|
+|253.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/253_MPS_ja.ipynb">ja</a>|
 
 
 Step6. Combinatorial Optimization Algorithms
@@ -127,3 +130,4 @@ Authors
 Disclaimer
 ----------
 Copyright 2020 The Blueqat Developers.
+
