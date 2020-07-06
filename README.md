@@ -63,10 +63,10 @@ Step5. NISQ Quantum Machine Learning
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|250.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/250_grad_ja.ipynb">ja</a>|
-|251.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/251_qcbm_ja.ipynb">ja</a>|
-|252.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/252_TTN_ja.ipynb">ja</a>|
-|253.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/253_MPS_ja.ipynb">ja</a>|
+|251.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/251_grad_ja.ipynb">ja</a>|
+|252.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/252_qcbm_ja.ipynb">ja</a>|
+|253.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/253_TTN_ja.ipynb">ja</a>|
+|254.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/254_MPS_ja.ipynb">ja</a>|
 
 
 Step6. Combinatorial Optimization Algorithms
