@@ -106,26 +106,38 @@ Step7. Quantum Chemistry with VQE
 |:---|:---|:---|:---|:---|
 |400.|Quantum Chemistry and VQE|量子化学計算とVQE|<a href="tutorial/400_chemistry_en.ipynb">en</a>|<a href="tutorial-ja/400_chemistry_ja.ipynb">ja</a>|
 
-Step8. Error Correction
+Step8. Continuous Variable Quantum Computation (photonqat)
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|500.|Error Correction|誤り訂正|en|ja|
+|500.|Basic Operations|基本的な操作|en|<a href="tutorial-ja/500_basic_operations_ja.ipynb">ja</a>|
+|501.|Gaussian state|ガウス状態|en|<a href="tutorial-ja/501_gaussian_state_ja.ipynb">ja</a>|
+|502.|Measurement|測定|en|ja|
+|503.|Quantum teleportation|量子テレポーテーション|en|ja|
+|504.|Gaussian boson sampling|ガウシアンボゾンサンプリング|en|ja|
+|505.|Continuous variable QAOA|連続量QAOA|en|ja|
 
-Step9. Advanced Settings
+Step９. Error Correction
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|600.|Qgate|Qgate|<a href="tutorial/600_qgate_en.ipynb">en</a>|<a href="tutorial-ja/600_qgate_ja.ipynb">ja</a>|
-|601.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/601_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/601_optimizer_ja.ipynb">ja</a>|
-|602.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/602_backend1_ja.ipynb">ja</a>|
-|603.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
+|600.|Error Correction|誤り訂正|en|ja|
+
+Step10. Advanced Settings
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|700.|Qgate|Qgate|<a href="tutorial/700_qgate_en.ipynb">en</a>|<a href="tutorial-ja/700_qgate_ja.ipynb">ja</a>|
+|701.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/701_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/701_optimizer_ja.ipynb">ja</a>|
+|702.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/702_backend1_ja.ipynb">ja</a>|
+|703.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel), [Ryutaro Nagai](https://github.com/ryuNagai)(blueqat)
 
 Disclaimer
 ----------
