@@ -41,15 +41,16 @@ Step3. Universal Quantum Algorithms
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
 |113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
 |114.|Quantum Phase Estimation of 2x2 Hermitian Matrix|2x2エルミート行列の量子位相推定|<a href="tutorial/114_pea2_en.ipynb">en</a>|<a href="tutorial-ja/114_pea2_ja.ipynb">ja</a>|
-|115.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/115_grover_en.ipynb">en</a>|<a href="tutorial-ja/115_grover_ja.ipynb">ja</a>|
-|116.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja|
-|117.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja|
-|118.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
-|119.|Simon's algorithm|Simonのアルゴリズム|en|ja|
-|120.|Shor's algorithm|Shorのアルゴリズム|en|ja|
-|121.|HHL algorithm|HLLアルゴリズム|en|ja|
-|122.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
+|115.|Quantum Phase Estimation of 2x2 Hermitian Matrix|2x2エルミート行列の量子位相推定|<a href="tutorial/115_pea3_en.ipynb">en</a>|<a href="tutorial-ja/115_pea3_ja.ipynb">ja</a>|
+|116.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/116_grover_en.ipynb">en</a>|<a href="tutorial-ja/116_grover_ja.ipynb">ja</a>|
+|117.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja|
+|118.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja|
+|119.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
+|120.|Simon's algorithm|Simonのアルゴリズム|en|ja|
+|121.|Shor's algorithm|Shorのアルゴリズム|en|ja|
+|122.|HHL algorithm|HLLアルゴリズム|en|ja|
 |123.|Modulus|剰余演算|<a href="tutorial/123_modulus_en.ipynb">en</a>|<a href="tutorial-ja/123_modulus_ja.ipynb">ja</a>|
+|124.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
 
 Step4. NISQ Variational Algorithms
 --------------------
