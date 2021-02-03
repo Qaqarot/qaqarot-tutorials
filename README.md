@@ -68,7 +68,7 @@ Step5. NISQ Quantum Machine Learning
 |251.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/251_grad_ja.ipynb">ja</a>|
 |252.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/252_qcbm_ja.ipynb">ja</a>|
 |253.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/253_TTN_ja.ipynb">ja</a>|
-|254.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/254_MPS_ja.ipynb">ja</a>|
+|254.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/254_mps_ja.ipynb">ja</a>|
 
 
 Step6. Combinatorial Optimization Algorithms
@@ -122,14 +122,7 @@ Step8. Continuous Variable Quantum Computation (photonqat)
 |504.|Gaussian boson sampling|ガウシアンボゾンサンプリング|en|ja|
 |505.|Continuous variable QAOA|連続量QAOA|en|ja|
 
-Step９. Error Correction
---------------------
-
-|No.|Title|タイトル|Link|リンク|
-|:---|:---|:---|:---|:---|
-|600.|Error Correction|誤り訂正|en|ja|
-
-Step10. Advanced Settings
+Step9. Advanced Settings
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -141,7 +134,7 @@ Step10. Advanced Settings
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(MDR), [Asa Eagle](https://github.com/Morning777)(MDR), [Satoshi Takezawa](https://github.com/takebozu)(Quemix), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel), [Ryutaro Nagai](https://github.com/ryuNagai)(blueqat), Shu Kanno, [Takumi Kato](https://github.com/gyu-don)(blueqat)
+[Yuichiro Minato](https://github.com/minatoyuichiro)(blueqat), [Asa Eagle](https://github.com/Morning777)(blueqat), [Satoshi Takezawa](https://github.com/takebozu), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel), [Ryutaro Nagai](https://github.com/ryuNagai)(blueqat), Shu Kanno, [Takumi Kato](https://github.com/gyu-don)(blueqat)
 
 Disclaimer
 ----------
