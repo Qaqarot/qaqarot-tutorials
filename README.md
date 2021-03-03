@@ -57,6 +57,9 @@ Step1-4. Universal Quantum Algorithms 4 (Time Evolution)
 
 Step1-5. Universal Quantum Algorithms 5 (Machine Learning)
 --------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
 |140.|HHL algorithm|HLLアルゴリズム|en|ja|
 |141.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
 
