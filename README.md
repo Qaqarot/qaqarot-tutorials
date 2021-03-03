@@ -19,10 +19,8 @@ Step2. Advanced Operation of Quantum Logic Gate
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |005.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|<a href="tutorial/005_gate_en.ipynb">en</a>|<a href="tutorial-ja/005_gate_ja.ipynb">ja</a>|
-|006.|Single Fixed Rotation Gate|固定回転ゲート|<a href="tutorial/006_1gate_en.ipynb">en</a>|<a href="tutorial-ja/006_1gate_ja.ipynb">ja</a>|
-|007.|Single Arbitrary Rotation Gate|任意回転ゲート|<a href="tutorial/007_rotation_en.ipynb">en</a>|<a href="tutorial-ja/007_rotation_ja.ipynb">ja</a>|
-|008.|Controlled Fixed Rotation Gate|制御固定回転ゲート|<a href="tutorial/008_cpauli_en.ipynb">en</a>|<a href="tutorial-ja/008_cpauli_ja.ipynb">ja</a>|
-|009.|Controlled Arbitrary Rotation Gate|制御任意回転ゲート|<a href="tutorial/009_cr_en.ipynb">en</a>|<a href="tutorial-ja/009_cr_ja.ipynb">ja</a>|
+|006.|1qubit Gate|1量子ビットゲート|<a href="tutorial/006_1gate_en.ipynb">en</a>|<a href="tutorial-ja/006_1gate_ja.ipynb">ja</a>|
+|007.|2qubit Controlled Gate|2量子ビット制御ゲート|<a href="tutorial/007_controlled_en.ipynb">en</a>|<a href="tutorial-ja/007_controlled_ja.ipynb">ja</a>|
 |010.|Swap Gate|スワップゲート|<a href="tutorial/010_swap_en.ipynb">en</a>|<a href="tutorial-ja/010_swap_ja.ipynb">ja</a>|
 |011.|Toffoli Gate|トフォリゲート|<a href="tutorial/011_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/011_toffoli_ja.ipynb">ja</a>|
 |012.|Ising Gate|イジングゲート|<a href="tutorial/012_ising_en.ipynb">en</a>|<a href="tutorial-ja/012_ising_ja.ipynb">ja</a>|
