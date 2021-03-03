@@ -1,52 +1,75 @@
 Blueqat Tutorial
 ====================
 
-Here we provide tutorials on ipython. It is easy to learn quantum computing by checking code on python.
-
-Step1. Operation of Quantum Logic Gate
+Step0. Basic Operation on Quantum Computer
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|001.|Basic 1qubit operation|１量子ビットの操作|<a href="tutorial/001_1qubit_en.ipynb">en</a>|<a href="tutorial-ja/001_1qubit_ja.ipynb">ja</a>|
-|002.|Basic 2qubits operations|２量子ビットの操作|<a href="tutorial/002_2qubits_en.ipynb">en</a>|<a href="tutorial-ja/002_2qubits_ja.ipynb">ja</a>|
-|003.|Superposition|量子の重ね合わせ|<a href="tutorial/003_superposition_en.ipynb">en</a>|<a href="tutorial-ja/003_superposition_ja.ipynb">ja</a>|
-|004.|Entanglement and GHZ state|量子もつれとGHZ状態|<a href="tutorial/004_entanglement_en.ipynb">en</a>|<a href="tutorial-ja/004_entanglement_ja.ipynb">ja</a>|
+|001.|Operation on Qubits|量子ビットの操作|<a href="tutorial/001_qubit_en.ipynb">en</a>|<a href="tutorial-ja/001_qubit_ja.ipynb">ja</a>|
+|002.|Superposition|量子の重ね合わせ|<a href="tutorial/002_superposition_en.ipynb">en</a>|<a href="tutorial-ja/002_superposition_ja.ipynb">ja</a>|
+|003.|Entanglement and GHZ state|量子もつれとGHZ状態|<a href="tutorial/003_entanglement_en.ipynb">en</a>|<a href="tutorial-ja/003_entanglement_ja.ipynb">ja</a>|
+|004.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|<a href="tutorial/004_gate_en.ipynb">en</a>|<a href="tutorial-ja/004_gate_ja.ipynb">ja</a>|
+|005.|1qubit Gate|1量子ビットゲート|<a href="tutorial/005_1gate_en.ipynb">en</a>|<a href="tutorial-ja/005_1gate_ja.ipynb">ja</a>|
+|006.|2qubit Gate|2量子ビットゲート|<a href="tutorial/006_2gate_en.ipynb">en</a>|<a href="tutorial-ja/006_2gate_ja.ipynb">ja</a>|
+|007.|3qubit Gate|3量子ビットゲート|<a href="tutorial/007_3gate_en.ipynb">en</a>|<a href="tutorial-ja/007_3gate_ja.ipynb">ja</a>|
+|008.|Quantum algorithm|量子アルゴリズム|en|ja|
 
-Step2. Advanced Operation of Quantum Logic Gate
+Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|005.|Quantum Logic Gate and Rotation|量子ゲートと回転操作|<a href="tutorial/005_gate_en.ipynb">en</a>|<a href="tutorial-ja/005_gate_ja.ipynb">ja</a>|
-|006.|1qubit Gate|1量子ビットゲート|<a href="tutorial/006_1gate_en.ipynb">en</a>|<a href="tutorial-ja/006_1gate_ja.ipynb">ja</a>|
-|007.|2qubit Controlled Gate|2量子ビット制御ゲート|<a href="tutorial/007_controlled_en.ipynb">en</a>|<a href="tutorial-ja/007_controlled_ja.ipynb">ja</a>|
-|010.|Swap Gate|スワップゲート|<a href="tutorial/010_swap_en.ipynb">en</a>|<a href="tutorial-ja/010_swap_ja.ipynb">ja</a>|
-|011.|Toffoli Gate|トフォリゲート|<a href="tutorial/011_toffoli_en.ipynb">en</a>|<a href="tutorial-ja/011_toffoli_ja.ipynb">ja</a>|
-|012.|Ising Gate|イジングゲート|<a href="tutorial/012_ising_en.ipynb">en</a>|<a href="tutorial-ja/012_ising_ja.ipynb">ja</a>|
-|013.|Time Evolution Operator|時間発展演算子|<a href="tutorial/013_timeevolution_en.ipynb">en</a>|<a href="tutorial-ja/013_timeevolution_ja.ipynb">ja</a>|
+|100.|Deutsch's algorithm|Deutschのアルゴリズム|en|<a href="tutorial-ja/100_deutsch.ipynb">ja</a>|
+|101.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|<a href="tutorial-ja/101_deutsch-jozsa.ipynb">ja</a>|
+|102.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
+|103.|Simon's algorithm|Simonのアルゴリズム|en|ja|
+|104.|Shor's algorithm|Shorのアルゴリズム|en|ja|
 
-Step3. Universal Quantum Algorithms
+Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/111_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/111_teleportation_ja.ipynb">ja</a>|
-|112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
-|113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
-|114.|Quantum Phase Estimation of 2x2 Hermitian Matrix|2x2エルミート行列の量子位相推定|<a href="tutorial/114_pea2_en.ipynb">en</a>|<a href="tutorial-ja/114_pea2_ja.ipynb">ja</a>|
-|115.|Quantum Phase Estimation of 4x4 Hermitian Matrix|4x4エルミート行列の量子位相推定|<a href="tutorial/115_pea3_en.ipynb">en</a>|<a href="tutorial-ja/115_pea3_ja.ipynb">ja</a>|
-|116.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/116_grover_en.ipynb">en</a>|<a href="tutorial-ja/116_grover_ja.ipynb">ja</a>|
-|117.|Deutsch's algorithm|Deutschのアルゴリズム|en|ja|
-|118.|Deutsch-Jozsa's algorithm|Deutsch-Jozsaのアルゴリズム|en|ja|
-|119.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|en|ja|
-|120.|Simon's algorithm|Simonのアルゴリズム|en|ja|
-|121.|Shor's algorithm|Shorのアルゴリズム|en|ja|
-|122.|HHL algorithm|HLLアルゴリズム|en|ja|
-|123.|Four Calculations and Modulus|四則演算と剰余演算|<a href="tutorial/123_four_en.ipynb">en</a>|<a href="tutorial-ja/123_four_ja.ipynb">ja</a>|
-|124.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
+|110.|Quantum Amplitude Amplification algorithm|量子振幅増幅アルゴリズム|en|ja|
+|111.|Grover's algorithm|Groverのアルゴリズム|<a href="tutorial/111_grover_en.ipynb">en</a>|<a href="tutorial-ja/111_grover_ja.ipynb">ja</a>|
+|112.|Quantum Amplitude Estimation algorithm|量子振幅推定アルゴリズム|en|ja|
+|113.|QAA and Numerical Integration| 量子振幅推定と数値積分|en|ja|
 
-Step4. NISQ Variational Algorithms
+Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|120.|Phase Kickback|位相キックバック|en|ja|
+|121.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/121_qft_en.ipynb">en</a>|<a href="tutorial-ja/121_qft_ja.ipynb">ja</a>|
+|122.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/122_pea_en.ipynb">en</a>|<a href="tutorial-ja/122_pea_ja.ipynb">ja</a>|
+|123.|Quantum Phase Estimation of 2x2 Hermitian Matrix|2x2エルミート行列の量子位相推定|<a href="tutorial/123_pea2_en.ipynb">en</a>|<a href="tutorial-ja/123_pea2_ja.ipynb">ja</a>|
+|124.|Quantum Phase Estimation of 4x4 Hermitian Matrix|4x4エルミート行列の量子位相推定|<a href="tutorial/124_pea3_en.ipynb">en</a>|<a href="tutorial-ja/124_pea3_ja.ipynb">ja</a>|
+
+Step1-4. Universal Quantum Algorithms 4 (Time Evolution)
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|130.|Time Evolution|時間発展|en|ja|
+|131.|Quantum Adiatatic Time Evolution|量子断熱時間発展|en|ja|
+
+Step1-5. Universal Quantum Algorithms 5 (Machine Learning)
+--------------------
+|140.|HHL algorithm|HLLアルゴリズム|en|ja|
+|141.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
+
+Step1-6. Universal Quantum Algorithms 6 (Others)
+--------------------
+
+|No.|Title|タイトル|Link|リンク|
+|:---|:---|:---|:---|:---|
+|150.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/150_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/150_teleportation_ja.ipynb">ja</a>|
+|151.|Super Dense Coding|スーパーデンスコーディング|en|ja|
+|155.|Four Calculations and Modulus|四則演算と剰余演算|<a href="tutorial/155_four_en.ipynb">en</a>|<a href="tutorial-ja/155_four_ja.ipynb">ja</a>|
+
+Step2-1. NISQ Variational Algorithms
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -54,18 +77,20 @@ Step4. NISQ Variational Algorithms
 |200.|Variational Quantum Eigensolver VQE|VQE|<a href="tutorial/200_vqe_en.ipynb">en</a>|<a href="tutorial-ja/200_vqe_ja.ipynb">ja</a>|
 |201.|Quantum Approximate Optimization Algorithm QAOA|QAOA|<a href="tutorial/201_qaoa_en.ipynb">en</a>|<a href="tutorial-ja/201_qaoa_ja.ipynb">ja</a>|
 
-Step5. NISQ Quantum Machine Learning
+Step2-2. NISQ Machine Learning
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
+|250.|Quantum Classical Hybrid Machine Learning|量子古典ハイブリッド機械学習|en|ja|
 |251.|Numerical differentiation and gradient method|数値微分と勾配法|en|<a href="tutorial-ja/251_grad_ja.ipynb">ja</a>|
 |252.|Quantum Circuit Born Machine|量子回路ボルンマシン|en|<a href="tutorial-ja/252_qcbm_ja.ipynb">ja</a>|
-|253.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/253_TTN_ja.ipynb">ja</a>|
+|253.|Tree Tensot Network|木構造テンソルネットワーク|en|<a href="tutorial-ja/253_ttn_ja.ipynb">ja</a>|
 |254.|Matrix Product State|行列積状態|en|<a href="tutorial-ja/254_mps_ja.ipynb">ja</a>|
+|255.|MNIST|MINST|en|ja|
 
 
-Step6. Combinatorial Optimization Algorithms
+Step3. Combinatorial Optimization
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -94,7 +119,7 @@ Step6. Combinatorial Optimization Algorithms
 |322.|Protein foldings|タンパク質折りたたみ問題|<a href="tutorial/322_protein_en.ipynb">en</a>|<a href="tutorial-ja/322_protein_ja.ipynb">ja</a>|
 |323.|Clustering|クラスタリング|en|<a href="tutorial-ja/323_clustering_ja.ipynb">ja</a>|
 
-Step7. Quantum Chemistry with VQE
+Step4. Quantum Chemistry
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -103,7 +128,7 @@ Step7. Quantum Chemistry with VQE
 |401.|VQE with homemade ansatz|自作ansatzでVQE|<a href="tutorial/401_homemadeansatz_en.ipynb">en</a>|<a href="tutorial-ja/401_homemadeansatz_ja.ipynb">ja</a>|
 |402.|Excited state calculation|励起状態の計算|<a href="tutorial/402_excitedstate_en.ipynb">en</a>|<a href="tutorial-ja/402_excitedstate_ja.ipynb">ja</a>|
 
-Step8. Continuous Variable Quantum Computation (photonqat)
+Step5. Continuous Variable Quantum Computation (photonqat)
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
@@ -115,15 +140,14 @@ Step8. Continuous Variable Quantum Computation (photonqat)
 |504.|Gaussian boson sampling|ガウシアンボゾンサンプリング|en|ja|
 |505.|Continuous variable QAOA|連続量QAOA|en|ja|
 
-Step9. Advanced Settings
+Step6. Backend 
 --------------------
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|700.|Qgate|Qgate|<a href="tutorial/700_qgate_en.ipynb">en</a>|<a href="tutorial-ja/700_qgate_ja.ipynb">ja</a>|
-|701.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/701_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/701_optimizer_ja.ipynb">ja</a>|
-|702.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/702_backend1_ja.ipynb">ja</a>|
-|703.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
+|600.|Connection to Quantum Computer|Connection to Quantum Computer|en|ja|
+|601.|Original Backend|オリジナルバックエンド|en|<a href="tutorial-ja/601_backend_ja.ipynb">ja</a>|
+|602.|Qgate|Qgate|<a href="tutorial/700_qgate_en.ipynb">en</a>|<a href="tutorial-ja/602_qgate_ja.ipynb">ja</a>|
 
 Authors
 ----------
@@ -131,5 +155,5 @@ Authors
 
 Disclaimer
 ----------
-Copyright 2020 The Blueqat Developers.
+Copyright 2021 The Blueqat Developers.
 
