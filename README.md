@@ -11,7 +11,7 @@ Step1. Operation of Quantum Logic Gate
 |001.|Basic 1qubit operation|１量子ビットの操作|<a href="tutorial/001_1qubit_en.ipynb">en</a>|<a href="tutorial-ja/001_1qubit_ja.ipynb">ja</a>|
 |002.|Basic 2qubits operations|２量子ビットの操作|<a href="tutorial/002_2qubits_en.ipynb">en</a>|<a href="tutorial-ja/002_2qubits_ja.ipynb">ja</a>|
 |003.|Superposition|量子の重ね合わせ|<a href="tutorial/003_superposition_en.ipynb">en</a>|<a href="tutorial-ja/003_superposition_ja.ipynb">ja</a>|
-|004.|Entanglement|量子のもつれ|<a href="tutorial/004_entanglement_en.ipynb">en</a>|<a href="tutorial-ja/004_entanglement_ja.ipynb">ja</a>|
+|004.|Entanglement and GHZ state|量子もつれとGHZ状態|<a href="tutorial/004_entanglement_en.ipynb">en</a>|<a href="tutorial-ja/004_entanglement_ja.ipynb">ja</a>|
 
 Step2. Advanced Operation of Quantum Logic Gate
 --------------------
@@ -33,10 +33,6 @@ Step3. Universal Quantum Algorithms
 
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
-|100.|Adder|たし算|<a href="tutorial/100_adder_en.ipynb">en</a>|<a href="tutorial-ja/100_adder_ja.ipynb">ja</a>|
-|101.|Subtractor|ひき算|<a href="tutorial/101_subtractor_en.ipynb">en</a>|<a href="tutorial-ja/101_subtractor_ja.ipynb">ja</a>|
-|102.|Multiplier|かけ算|<a href="tutorial/102_multiplier_en.ipynb">en</a>|<a href="tutorial-ja/102_multiplier_ja.ipynb">ja</a>|
-|110.|GHZ state|GHZ状態|<a href="tutorial/110_ghz_en.ipynb">en</a>|<a href="tutorial-ja/110_ghz_ja.ipynb">ja</a>|
 |111.|Quantum Teleportation|量子テレポーテーション|<a href="tutorial/111_teleportation_en.ipynb">en</a>|<a href="tutorial-ja/111_teleportation_ja.ipynb">ja</a>|
 |112.|Quantum Fourier Transform|量子フーリエ変換|<a href="tutorial/112_qft_en.ipynb">en</a>|<a href="tutorial-ja/112_qft_ja.ipynb">ja</a>|
 |113.|Quantum Phase Estimation|量子位相推定|<a href="tutorial/113_pea_en.ipynb">en</a>|<a href="tutorial-ja/113_pea_ja.ipynb">ja</a>|
@@ -49,7 +45,7 @@ Step3. Universal Quantum Algorithms
 |120.|Simon's algorithm|Simonのアルゴリズム|en|ja|
 |121.|Shor's algorithm|Shorのアルゴリズム|en|ja|
 |122.|HHL algorithm|HLLアルゴリズム|en|ja|
-|123.|Modulus|剰余演算|<a href="tutorial/123_modulus_en.ipynb">en</a>|<a href="tutorial-ja/123_modulus_ja.ipynb">ja</a>|
+|123.|Four Calculations and Modulus|四則演算と剰余演算|<a href="tutorial/123_four_en.ipynb">en</a>|<a href="tutorial-ja/123_four_ja.ipynb">ja</a>|
 |124.|Quantum Support Vector Machine|量子サポートベクターマシン|en|ja|
 
 Step4. NISQ Variational Algorithms
