@@ -121,9 +121,7 @@ Step9. Advanced Settings
 |No.|Title|タイトル|Link|リンク|
 |:---|:---|:---|:---|:---|
 |700.|Qgate|Qgate|<a href="tutorial/700_qgate_en.ipynb">en</a>|<a href="tutorial-ja/700_qgate_ja.ipynb">ja</a>|
-|701.|Classical Optimizer|古典最適化アルゴリズムの設定|<a href="tutorial/701_optimizer_en.ipynb">en</a>|<a href="tutorial-ja/701_optimizer_ja.ipynb">ja</a>|
-|702.|Original backend for blueqat1|blueqatのオリジナルバックエンド1|en|<a href="tutorial-ja/702_backend1_ja.ipynb">ja</a>|
-|703.|Original backend for blueqat2|blueqatのオリジナルバックエンド2|en|ja|
+|702.|Original backend for blueqat1|blueqatのオリジナルバックエンド|en|<a href="tutorial-ja/702_backend1_ja.ipynb">ja</a>|
 
 Authors
 ----------
@@ -131,5 +129,5 @@ Authors
 
 Disclaimer
 ----------
-Copyright 2020 The Blueqat Developers.
+Copyright 2021 The Blueqat Developers.
 
