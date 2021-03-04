@@ -6,14 +6,14 @@ Step0. Basic Operation on Quantum Computer
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|001.|<a href="tutorial/001_qubit_en.ipynb">Operation on Qubits</a>|<a href="tutorial-ja/001_qubit_ja.ipynb">量子ビットの操作</a>||
+|001.|<a href="tutorial/001_qubit_en.ipynb">Operation on Qubits</a>|<a href="tutorial-ja/001_qubit_ja.ipynb">量子ビットの操作</a>|量子位运算 |
 |002.|<a href="tutorial/002_superposition_en.ipynb">Superposition</a>|<a href="tutorial-ja/002_superposition_ja.ipynb">量子の重ね合わせ</a>||
 |003.|<a href="tutorial/003_entanglement_en.ipynb">Entanglement and GHZ state</a>|<a href="tutorial-ja/003_entanglement_ja.ipynb">量子もつれとGHZ状態</a>||
 |004.|<a href="tutorial/004_gate_en.ipynb">Quantum Logic Gate and Rotation</a>|<a href="tutorial-ja/004_gate_ja.ipynb">量子ゲートと回転操作</a>||
 |005.|<a href="tutorial/005_1gate_en.ipynb">1qubit Gate</a>|<a href="tutorial-ja/005_1gate_ja.ipynb">1量子ビットゲート</a>||
 |006.|<a href="tutorial/006_2gate_en.ipynb">2qubit Gate</a>|<a href="tutorial-ja/006_2gate_ja.ipynb">2量子ビットゲート</a>||
 |007.|<a href="tutorial/007_3gate_en.ipynb">3qubit Gate</a>|<a href="tutorial-ja/007_3gate_ja.ipynb">3量子ビットゲート</a>||
-|008.|Quantum algorithm|量子アルゴリズム||
+|008.|Quantum algorithm|量子アルゴリズム|量子算法|
 
 Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 --------------------
