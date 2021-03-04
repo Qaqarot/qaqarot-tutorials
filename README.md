@@ -20,20 +20,20 @@ Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|100.|Deutsch's algorithm|<a href="tutorial-ja/100_deutsch.ipynb">Deutschのアルゴリズム</a>||
-|101.|Deutsch-Jozsa's algorithm|<a href="tutorial-ja/101_deutsch-jozsa.ipynb">Deutsch-Jozsaのアルゴリズム</a>||
-|102.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム||
-|103.|Simon's algorithm|Simonのアルゴリズム||
-|104.|Shor's algorithm|Shorのアルゴリズム||
+|100.|Deutsch's algorithm|<a href="tutorial-ja/100_deutsch.ipynb">Deutschのアルゴリズム</a>|Deutsch算法|
+|101.|Deutsch-Jozsa's algorithm|<a href="tutorial-ja/101_deutsch-jozsa.ipynb">Deutsch-Jozsaのアルゴリズム</a>|Deutsch-Jozsa算法|
+|102.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|Bernstein-Vazirani算法|
+|103.|Simon's algorithm|Simonのアルゴリズム|Simon算法|
+|104.|Shor's algorithm|Shorのアルゴリズム|Shor算法|
 
 Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 --------------------
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|110.|Quantum Amplitude Amplification algorithm|量子振幅増幅アルゴリズム||
-|111.|<a href="tutorial/111_grover_en.ipynb">Grover's algorithm</a>|<a href="tutorial-ja/111_grover_ja.ipynb">Groverのアルゴリズム</a>||
-|112.|Quantum Amplitude Estimation algorithm|量子振幅推定アルゴリズム||
+|110.|Quantum Amplitude Amplification|量子振幅増幅||
+|111.|<a href="tutorial/111_grover_en.ipynb">Grover's algorithm</a>|<a href="tutorial-ja/111_grover_ja.ipynb">Groverのアルゴリズム</a>|Grover算法|
+|112.|Quantum Amplitude Estimation|量子振幅推定||
 |113.|QAA and Numerical Integration| 量子振幅推定と数値積分||
 
 Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
@@ -77,10 +77,22 @@ Step2-1. NISQ Variational Algorithms
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|200.|<a href="tutorial/200_vqe_en.ipynb">Variational Quantum Eigensolver VQE</a>|<a href="tutorial-ja/200_vqe_ja.ipynb">VQE</a>||
-|201.|<a href="tutorial/201_qaoa_en.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|<a href="tutorial-ja/201_qaoa_ja.ipynb">QAOA</a>||
+|200.|<a href="tutorial/200_vqe_en.ipynb">Variational Quantum Eigensolver VQE</a>|<a href="tutorial-ja/200_vqe_ja.ipynb">VQE</a>|VQE|
+|201.|<a href="tutorial/201_qaoa_en.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|<a href="tutorial-ja/201_qaoa_ja.ipynb">QAOA</a>|QAOA|
+|202.|VQSVD|VQSVD|VQSVD|
+|203.|VQSD|VQSD|VQSD|
 
-Step2-2. NISQ Machine Learning
+Step2-2. Data Science Machine Learning
+--------------------
+
+|No.|English|日本語|中文|
+|:---|:---|:---|:---|
+|210.|Clustering|<a href="tutorial-ja/210_clustering_ja.ipynb">クラスタリング</a>||
+|211.|Linear Regression|線形回帰||
+|212.|Matrix Factorization|Matrix Factorization||
+
+
+Step2-3. NISQ Machine Learning
 --------------------
 
 |No.|English|日本語|中文|
@@ -99,7 +111,7 @@ Step3. Combinatorial Optimization
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
 |300.|<a href="tutorial/300_cop_en.ipynb">Combinatorial Optimization Problems</a>|<a href="tutorial-ja/300_cop_ja.ipynb">組合せ最適化問題</a>||
-|301.|<a href="tutorial/301_maxcut_en.ipynb">Maxcut</a>|<a href="tutorial-ja/301_maxcut_ja.ipynb">maxcut</a>||
+|301.|<a href="tutorial/301_maxcut_en.ipynb">Maxcut</a>|<a href="tutorial-ja/301_maxcut_ja.ipynb">Maxcut</a>||
 |302.|<a href="tutorial/302_oneplus_en.ipynb">1+1</a>|<a href="tutorial-ja/302_oneplus_ja.ipynb">1+1</a>||
 |303.|<a href="tutorial/303_numberpartitioning_en.ipynb">Number Partitioning</a>|<a href="tutorial-ja/303_numberpartitioning_ja.ipynb">自然数分割問題</a>||
 |304.|<a href="tutorial/304_BIL_en.ipynb">BIL</a>|<a href="tutorial-ja/304_BIL_ja.ipynb">BIL</a>||
@@ -120,7 +132,6 @@ Step3. Combinatorial Optimization
 |319.|<a href="tutorial/319_factorization_en.ipynb">Prime Factorization</a>|<a href="tutorial-ja/319_factorization_ja.ipynb">最適化問題で素因数分解</a>||
 |320.|Restricted Boltzmann machine|<a href="tutorial-ja/320_rbm_ja.ipynb">制限付きボルツマンマシン</a>||
 |322.|<a href="tutorial/322_protein_en.ipynb">Protein Foldings</a>|<a href="tutorial-ja/322_protein_ja.ipynb">タンパク質折りたたみ問題</a>||
-|323.|Clustering|<a href="tutorial-ja/323_clustering_ja.ipynb">クラスタリング</a>||
 
 Step4. Quantum Chemistry
 --------------------
