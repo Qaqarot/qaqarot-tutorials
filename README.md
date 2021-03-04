@@ -147,10 +147,10 @@ Step5. Continuous Variable Quantum Computation (photonqat)
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|500.|Basic Operations|<a href="tutorial-ja/500_basic_operations_ja.ipynb">基本的な操作</a>||
-|501.|Gaussian state|<a href="tutorial-ja/501_gaussian_state_ja.ipynb">ガウス状態</a>||
-|502.|Measurement|測定||
-|503.|Quantum teleportation|量子テレポーテーション||
+|500.|<a href="tutorial/500_basic_operations_en.ipynb">Basic Operations</a>|<a href="tutorial-ja/500_basic_operations_ja.ipynb">基本的な操作</a>||
+|501.|<a href="tutorial/501_gaussian_state_en.ipynb">Gaussian state</a>|<a href="tutorial-ja/501_gaussian_state_ja.ipynb">ガウス状態</a>||
+|502.|<a href="tutorial/502_measurement_en.ipynb">Measurement</a>|<a href="tutorial-ja/502_measurement_ja.ipynb">測定</a>||
+|503.|<a href="tutorial/503_Quantum teleportation_en.ipynb">Quantum teleportation</a>|<a href="tutorial/503_Quantum teleportation_ja.ipynb">量子テレポーテーション</a>||
 |504.|Gaussian boson sampling|ガウシアンボゾンサンプリング||
 |505.|Continuous variable QAOA|連続量QAOA||
 
