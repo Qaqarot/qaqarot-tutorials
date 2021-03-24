@@ -21,7 +21,7 @@ Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
 |100.|<a href="tutorial/100_deutsch.ipynb">Deutsch's algorithm|<a href="tutorial-ja/100_deutsch_ja.ipynb">Deutschのアルゴリズム</a>|Deutsch算法|
-|101.|Deutsch-Jozsa's algorithm|<a href="tutorial-ja/101_deutsch-jozsa.ipynb">Deutsch-Jozsaのアルゴリズム</a>|Deutsch-Jozsa算法|
+|101.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm|<a href="tutorial-ja/101_deutsch-jozsa_ja.ipynb">Deutsch-Jozsaのアルゴリズム</a>|Deutsch-Jozsa算法|
 |102.|Bernstein-Vazirani's algorithm|Bernstein-Vaziraniのアルゴリズム|Bernstein-Vazirani算法|
 |103.|Simon's algorithm|Simonのアルゴリズム|Simon算法|
 |104.|Shor's algorithm|Shorのアルゴリズム|Shor算法|
