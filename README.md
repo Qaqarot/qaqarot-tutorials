@@ -33,7 +33,7 @@ Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 |:---|:---|:---|:---|
 |110.|<a href="tutorial/110_amplitude_amplification_en.ipynb">Quantum Amplitude Amplification|<a href="tutorial-ja/110_amplitude_amplification_ja.ipynb">量子振幅増幅||
 |111.|<a href="tutorial/111_grover_en.ipynb">Grover's algorithm</a>|<a href="tutorial-ja/111_grover_ja.ipynb">Groverのアルゴリズム</a>|Grover算法|
-|112.|<a href="tutorial/112_amplitude_amplification_en.ipynb">Quantum Amplitude Estimation|<a href="tutorial-ja/112_amplitude_amplification_ja.ipynb">量子振幅推定||
+|112.|<a href="tutorial/112_amplitude_estimation_en.ipynb">Quantum Amplitude Estimation|<a href="tutorial-ja/112_amplitude_estimation_ja.ipynb">量子振幅推定||
 |113.|QAA and Numerical Integration| 量子振幅推定と数値積分||
 
 Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
