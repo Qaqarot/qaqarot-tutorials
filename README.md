@@ -41,7 +41,7 @@ Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|120.|Phase Kickback|位相キックバック||
+|120.|<a href="tutorial/120_phase_kick_back_en.ipynb">Phase Kickback|<a href="tutorial-ja/120_phase_kick_back_ja.ipynb">位相キックバック||
 |121.|<a href="tutorial/121_qft_en.ipynb">Quantum Fourier Transform</a>|<a href="tutorial-ja/121_qft_ja.ipynb">量子フーリエ変換</a>||
 |122.|<a href="tutorial/122_pea_en.ipynb">Quantum Phase Estimation</a>|<a href="tutorial-ja/122_pea_ja.ipynb">量子位相推定</a>||
 |123.|<a href="tutorial/123_pea2_en.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|<a href="tutorial-ja/123_pea2_ja.ipynb">2x2エルミート行列の量子位相推定</a>||
