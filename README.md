@@ -99,7 +99,7 @@ Step2-3. NISQ Machine Learning
 |:---|:---|:---|:---|
 |250.|Quantum Classical Hybrid Machine Learning|量子古典ハイブリッド機械学習||
 |251.|<a href="tutorial/251_grad_en.ipynb">Numerical differentiation and gradient method|<a href="tutorial-ja/251_grad_ja.ipynb">数値微分と勾配法</a>||
-|252.|Quantum Circuit Born Machine|<a href="tutorial-ja/252_qcbm_ja.ipynb">量子回路ボルンマシン</a>||
+|252.|<a href="tutorial/252_qcbm_en.ipynb">Quantum Circuit Born Machine|<a href="tutorial-ja/252_qcbm_ja.ipynb">量子回路ボルンマシン</a>||
 |253.|Tree Tensor Network|<a href="tutorial-ja/253_ttn_ja.ipynb">木構造テンソルネットワーク</a>||
 |254.|Matrix Product State|<a href="tutorial-ja/254_mps_ja.ipynb">行列積状態</a>||
 |255.|MNIST|MNIST||
