@@ -101,7 +101,7 @@ Step2-3. NISQ Machine Learning
 |251.|<a href="tutorial/251_grad_en.ipynb">Numerical differentiation and gradient method|<a href="tutorial-ja/251_grad_ja.ipynb">数値微分と勾配法</a>||
 |252.|<a href="tutorial/252_qcbm_en.ipynb">Quantum Circuit Born Machine|<a href="tutorial-ja/252_qcbm_ja.ipynb">量子回路ボルンマシン</a>||
 |253.|<a href="tutorial/253_ttn_en.ipynb">Tree Tensor Network|<a href="tutorial-ja/253_ttn_ja.ipynb">木構造テンソルネットワーク</a>||
-|254.|<a href="tutorial-ja/254_mps_en.ipynb">Matrix Product State|<a href="tutorial-ja/254_mps_ja.ipynb">行列積状態</a>||
+|254.|<a href="tutorial/254_mps_en.ipynb">Matrix Product State|<a href="tutorial-ja/254_mps_ja.ipynb">行列積状態</a>||
 |255.|MNIST|MNIST||
 |256.|Holographic VQE|ホログラフィックVQE||
 
