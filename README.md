@@ -13,7 +13,7 @@ Step0. Basic Operation on Quantum Computer
 |005.|<a href="tutorial/005_1gate_en.ipynb">1qubit Gate</a>|<a href="tutorial-ja/005_1gate_ja.ipynb">1量子ビットゲート</a>||
 |006.|<a href="tutorial/006_2gate_en.ipynb">2qubit Gate</a>|<a href="tutorial-ja/006_2gate_ja.ipynb">2量子ビットゲート</a>||
 |007.|<a href="tutorial/007_3gate_en.ipynb">3qubit Gate</a>|<a href="tutorial-ja/007_3gate_ja.ipynb">3量子ビットゲート</a>||
-|008.|Quantum algorithm|量子アルゴリズム|量子算法|
+|008.|<a href="tutorial/008_quantum_algorithm_en.ipynb">Quantum algorithm</a>|<a href="tutorial-ja/008_quantum_algorithm_ja.ipynb">量子アルゴリズム</a>|量子算法|
 
 Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 --------------------
