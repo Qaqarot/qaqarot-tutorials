@@ -87,7 +87,7 @@ Step2-2. Data Science Machine Learning
 
 |No.|English|日本語|中文|
 |:---|:---|:---|:---|
-|210.|Clustering|<a href="tutorial-ja/210_clustering_ja.ipynb">クラスタリング</a>||
+|210.|<a href="tutorial/210_clustering_en.ipynb">Clustering|<a href="tutorial-ja/210_clustering_ja.ipynb">クラスタリング</a>||
 |211.|Linear Regression|線形回帰||
 |212.|Matrix Factorization|Matrix Factorization||
 
