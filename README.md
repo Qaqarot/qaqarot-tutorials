@@ -89,7 +89,7 @@ Step2-2. Data Science Machine Learning
 |:---|:---|:---|
 |210.|<a href="tutorial/210_clustering_en.ipynb">Clustering|<a href="tutorial-ja/210_clustering_ja.ipynb">クラスタリング</a>|
 |211.|<a href="tutorial/211_linear_regression_en.ipynb">Linear Regression|<a href="tutorial-ja/211_linear_regression_ja.ipynb">線形回帰|
-|212.|Matrix Factorization|Matrix Factorization|
+|212.|<a href="tutorial/212_matrix_factorization_en.ipynb">Matrix Factorization|<a href="tutorial-ja/212_matrix_factorization_ja.ipynb">Matrix Factorization|
 
 
 Step2-3. NISQ Machine Learning
