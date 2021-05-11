@@ -104,6 +104,7 @@ Step2-3. NISQ Machine Learning
 |254.|<a href="tutorial/254_mps_en.ipynb">Matrix Product State|<a href="tutorial-ja/254_mps_ja.ipynb">行列積状態</a>|
 |255.|MNIST|MNIST|
 |256.|Holographic VQE|ホログラフィックVQE|
+|257.|Automatic Differentiation|自動微分|
 
 Step3. Combinatorial Optimization
 --------------------
