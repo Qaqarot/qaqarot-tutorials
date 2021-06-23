@@ -133,6 +133,7 @@ Step3. Combinatorial Optimization
 |319.|<a href="tutorial/319_factorization_en.ipynb">Prime Factorization</a>|<a href="tutorial-ja/319_factorization_ja.ipynb">最適化問題で素因数分解</a>|
 |320.|Restricted Boltzmann machine|<a href="tutorial-ja/320_rbm_ja.ipynb">制限付きボルツマンマシン</a>|
 |322.|<a href="tutorial/322_protein_en.ipynb">Protein Foldings</a>|<a href="tutorial-ja/322_protein_ja.ipynb">タンパク質折りたたみ問題</a>|
+|323.|<a href="tutorial/323_gas_en.ipynb">Grover Adaptive Search for QUBO</a>|QUBOによってGroverアルゴリズムの使用|
 
 Step4. Quantum Chemistry
 --------------------
