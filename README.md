@@ -155,6 +155,7 @@ Step5. Continuous Variable Quantum Computation (photonqat)
 |503.|<a href="tutorial/503_Quantum teleportation_en.ipynb">Quantum teleportation</a>|<a href="tutorial/503_Quantum teleportation_ja.ipynb">量子テレポーテーション</a>|
 |504.|Gaussian boson sampling|ガウシアンボゾンサンプリング|
 |505.|Continuous variable QAOA|連続量QAOA|
+|506.|<a href="tutorial/506_Interferometer_en.ipynb">Linear Interferometer Decomposition</a>|線形干渉計の分解|
 
 Step6. Backend 
 --------------------
