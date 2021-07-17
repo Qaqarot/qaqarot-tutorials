@@ -115,7 +115,7 @@ Step3. Combinatorial Optimization
 |301.|<a href="tutorial/301_maxcut_en.ipynb">Maxcut</a>|<a href="tutorial-ja/301_maxcut_ja.ipynb">Maxcut</a>|
 |302.|<a href="tutorial/302_oneplus_en.ipynb">1+1</a>|<a href="tutorial-ja/302_oneplus_ja.ipynb">1+1</a>|
 |303.|<a href="tutorial/303_numberpartitioning_en.ipynb">Number Partitioning</a>|<a href="tutorial-ja/303_numberpartitioning_ja.ipynb">自然数分割問題</a>|
-|304.|<a href="tutorial/304_BIL_en.ipynb">BIL</a>|<a href="tutorial-ja/304_BIL_ja.ipynb">BIL</a>|
+|304.|<a href="tutorial/304_BIL_en.ipynb">BIL</a>|<a href="tutorial-ja/304_BIL_ja.ipynb">整数計画問題</a>|
 |305.|<a href="tutorial/305_cliquecover_en.ipynb">Clique Cover</a>|<a href="tutorial-ja/305_cliquecover_ja.ipynb">クリークカバー</a>|
 |306.|<a href="tutorial/306_cliques_en.ipynb">Cliques</a>|<a href="tutorial-ja/306_cliques_ja.ipynb">クリーク</a>|
 |307.|<a href="tutorial/307_exactcover_en.ipynb">Exact Cover</a>|<a href="tutorial-ja/307_exactcover_ja.ipynb">エグザクトカバー</a>|
@@ -128,7 +128,6 @@ Step3. Combinatorial Optimization
 |314.|<a href="tutorial/314_tsp_en.ipynb">Travelling Salesman</a>|<a href="tutorial-ja/314_tsp_ja.ipynb">巡回セールスマン問題</a>|
 |315.|<a href="tutorial/315_vertexcover_en.ipynb">Vertext Cover</a>|<a href="tutorial-ja/315_vertexcover_ja.ipynb">頂点被覆問題</a>|
 |316.|<a href="tutorial/316_trafficflow_en.ipynb">Traffic Flow Optimization</a>|<a href="tutorial-ja/316_trafficflow_ja.ipynb">交通最適化</a>|
-|317.|<a href="tutorial/317_boolean_en.ipynb">Boolean Reduction</a>|<a href="tutorial-ja/317_boolean_ja.ipynb">３体問題の分解</a>|
 |318.|<a href="tutorial/318_portfolio_en.ipynb">Portfolio Optimization</a>|<a href="tutorial-ja/318_portfolio_ja.ipynb">ポートフォリオ最適化</a>|
 |319.|<a href="tutorial/319_factorization_en.ipynb">Prime Factorization</a>|<a href="tutorial-ja/319_factorization_ja.ipynb">最適化問題で素因数分解</a>|
 |320.|Restricted Boltzmann machine|<a href="tutorial-ja/320_rbm_ja.ipynb">制限付きボルツマンマシン</a>|
