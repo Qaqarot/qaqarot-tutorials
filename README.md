@@ -143,18 +143,6 @@ Step4. Quantum Chemistry
 |401.|<a href="tutorial/401_homemadeansatz_en.ipynb">VQE with homemade ansatz</a>|<a href="tutorial-ja/401_homemadeansatz_ja.ipynb">自作ansatzでVQE</a>|
 |402.|<a href="tutorial/402_excitedstate_en.ipynb">Excited state calculation</a>|<a href="tutorial-ja/402_excitedstate_ja.ipynb">励起状態の計算</a>|
 
-Step5. Continuous Variable Quantum Computation (photonqat)
---------------------
-
-|No.|English|日本語|
-|:---|:---|:---|
-|500.|<a href="tutorial/500_basic_operations_en.ipynb">Basic Operations</a>|<a href="tutorial-ja/500_basic_operations_ja.ipynb">基本的な操作</a>|
-|501.|<a href="tutorial/501_gaussian_state_en.ipynb">Gaussian state</a>|<a href="tutorial-ja/501_gaussian_state_ja.ipynb">ガウス状態</a>|
-|502.|<a href="tutorial/502_measurement_en.ipynb">Measurement</a>|<a href="tutorial-ja/502_measurement_ja.ipynb">測定</a>|
-|503.|<a href="tutorial/503_Quantum teleportation_en.ipynb">Quantum teleportation</a>|<a href="tutorial/503_Quantum teleportation_ja.ipynb">量子テレポーテーション</a>|
-|504.|Gaussian boson sampling|ガウシアンボゾンサンプリング|
-|505.|Continuous variable QAOA|連続量QAOA|
-
 Step6. Backend 
 --------------------
 
