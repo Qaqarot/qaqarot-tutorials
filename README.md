@@ -4,7 +4,7 @@ Blueqat Tutorial
 Step0. Basic Operation on Quantum Computer
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |001.|<a href="tutorial/001_qubit_en.ipynb">Operation on Qubits</a>|
 |002.|<a href="tutorial/002_superposition_en.ipynb">Superposition</a>|
@@ -18,7 +18,7 @@ Step0. Basic Operation on Quantum Computer
 Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |100.|<a href="tutorial/100_deutsch.ipynb">Deutsch's algorithm</a>|
 |101.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm</a>|
@@ -29,7 +29,7 @@ Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |110.|<a href="tutorial/110_amplitude_amplification_en.ipynb">Quantum Amplitude Amplification</a>|
 |111.|<a href="tutorial/111_grover_en.ipynb">Grover's algorithm</a>|
@@ -39,7 +39,7 @@ Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |120.|<a href="tutorial/120_phase_kick_back_en.ipynb">Phase Kickback</a>|
 |121.|<a href="tutorial/121_qft_en.ipynb">Quantum Fourier Transform</a>|
@@ -50,7 +50,7 @@ Step1-3. Universal Quantum Algorithms 3 (Phase Estimation)
 Step1-4. Universal Quantum Algorithms 4 (Time Evolution)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |130.|Time Evolution|
 |131.|Quantum Adiatatic Time Evolution|
@@ -58,7 +58,7 @@ Step1-4. Universal Quantum Algorithms 4 (Time Evolution)
 Step1-5. Universal Quantum Algorithms 5 (Machine Learning)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |140.|HHL algorithm|
 |141.|Quantum Support Vector Machine|
@@ -66,7 +66,7 @@ Step1-5. Universal Quantum Algorithms 5 (Machine Learning)
 Step1-6. Universal Quantum Algorithms 6 (Others)
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |150.|<a href="tutorial/150_teleportation_en.ipynb">Quantum Teleportation</a>|
 |151.|Super Dense Coding|
@@ -75,7 +75,7 @@ Step1-6. Universal Quantum Algorithms 6 (Others)
 Step2-1. NISQ Variational Algorithms
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |200.|<a href="tutorial/200_vqe_en.ipynb">Variational Quantum Eigensolver VQE</a>|
 |201.|<a href="tutorial/201_qaoa_en.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
@@ -85,7 +85,7 @@ Step2-1. NISQ Variational Algorithms
 Step2-2. Data Science Machine Learning
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |210.|<a href="tutorial/210_clustering_en.ipynb">Clustering</a>|
 |211.|<a href="tutorial/211_linear_regression_en.ipynb">Linear Regression</a>|
@@ -95,7 +95,7 @@ Step2-2. Data Science Machine Learning
 Step2-3. NISQ Machine Learning
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |250.|<a href="tutorial/250_quantum_classical_hybrid_en.ipynb">Quantum Classical Hybrid Machine Learning</a>|
 |251.|<a href="tutorial/251_grad_en.ipynb">Numerical differentiation and gradient method</a>|
@@ -109,7 +109,7 @@ Step2-3. NISQ Machine Learning
 Step3. Combinatorial Optimization
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |300.|<a href="tutorial/300_cop_en.ipynb">Combinatorial Optimization Problems</a>|
 |301.|<a href="tutorial/301_maxcut_en.ipynb">Maxcut</a>|
@@ -137,7 +137,7 @@ Step3. Combinatorial Optimization
 Step4. Quantum Chemistry
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |400.|<a href="tutorial/400_chemistry_en.ipynb">Quantum Chemistry and VQE</a>|
 |401.|<a href="tutorial/401_homemadeansatz_en.ipynb">VQE with homemade ansatz</a>|
@@ -146,14 +146,14 @@ Step4. Quantum Chemistry
 Step6. Backend 
 --------------------
 
-|No.|English|
+|No.|Title|
 |:---|:---|
 |600.|Connection to Quantum Computer|
 |601.|Original Backend|
 
 Authors
 ----------
-[Yuichiro Minato](https://github.com/minatoyuichiro)(blueqat), [Asa Eagle](https://github.com/Morning777)(blueqat), [Satoshi Takezawa](https://github.com/takebozu), [Seiya Sugo](https://github.com/seiya-sugo)(Quemix), [Keiichiro Higa](https://github.com/KeiichiroHiga)(Devel), [Ryutaro Nagai](https://github.com/ryuNagai)(blueqat), Shu Kanno, [Takumi Kato](https://github.com/gyu-don)(blueqat)
+<a href="https://github.com/Blueqat/Blueqat-tutorials/graphs/contributors" target="_blank">Contributors</a>
 
 Disclaimer
 ----------
