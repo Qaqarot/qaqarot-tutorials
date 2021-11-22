@@ -24,7 +24,7 @@ Step1-1. Universal Quantum Algorithms 1 (Shor's algorithm)
 |101.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm|<a href="tutorial-ja/101_deutsch-jozsa_ja.ipynb">Deutsch-Jozsaのアルゴリズム</a>|
 |102.|<a href="tutorial/102_bernstein-vazirani.ipynb">Bernstein-Vazirani's algorithm|<a href="tutorial-ja/102_bernstein-vazirani_ja.ipynb">Bernstein-Vaziraniのアルゴリズム|
 |103.|<a href="tutorial/103_simon.ipynb">Simon's algorithm|<a href="tutorial-ja/103_simon_ja.ipynb">Simonのアルゴリズム|
-|104.|Shor's algorithm|Shorのアルゴリズム|
+|104.|<a href="tutorial/104_shor_en.ipynb">Shor's algorithm</a>|Shorのアルゴリズム|
 
 Step1-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 --------------------
