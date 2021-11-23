@@ -151,11 +151,15 @@ Step6. Backend
 |600.|Connection to Quantum Computer|
 |601.|Original Backend|
 
-Authors
+Contributors
 ----------
 <a href="https://github.com/Blueqat/Blueqat-tutorials/graphs/contributors" target="_blank">Contributors</a>
 
-Disclaimer
+Discussions
 ----------
-Copyright 2021 The Blueqat Developers.
+<a href="https://github.com/Blueqat/blueqat-tutorials/discussions" target="_blank">Discussions</a>
+
+Licence
+----------
+<a href="https://github.com/Blueqat/blueqat-tutorials/blob/master/LICENSE">Apache Licence 2.0</a>
 
