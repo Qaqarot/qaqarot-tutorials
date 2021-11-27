@@ -128,6 +128,7 @@ Step3. Combinatorial Optimization
 |314.|<a href="tutorial/314_tsp.ipynb">Travelling Salesman</a>|
 |315.|<a href="tutorial/315_vertexcover.ipynb">Vertext Cover</a>|
 |316.|<a href="tutorial/316_trafficflow.ipynb">Traffic Flow Optimization</a>|
+|317.|Tiling Puzzle|
 |318.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
 |319.|<a href="tutorial/319_factorization.ipynb">Prime Factorization</a>|
 |320.|Restricted Boltzmann machine|
