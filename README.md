@@ -106,7 +106,7 @@ Step2-3. NISQ Machine Learning
 |256.|Holographic VQE|
 |257.|Automatic Differentiation|
 
-Step3. Combinatorial Optimization
+Step3. Combinatorial Optimization on QAOA
 --------------------
 
 |No.|Title|
@@ -130,7 +130,6 @@ Step3. Combinatorial Optimization
 |317.|Tiling Puzzle|
 |318.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
 |319.|<a href="tutorial/319_factorization.ipynb">Prime Factorization</a>|
-|320.|Restricted Boltzmann machine|
 |322.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
 |323.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
 
