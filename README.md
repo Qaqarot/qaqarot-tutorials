@@ -1,7 +1,7 @@
 Blueqat Tutorial
 ====================
 
-0. Basic Operation on Quantum Computer
+0-0. Basic Operation on Quantum Computer
 --------------------
 
 |No.|Title|
@@ -42,7 +42,7 @@ Blueqat Tutorial
 |211.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |212.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
 
-2. Combinatorial Optimization on QAOA
+2-1. Combinatorial Optimization on QAOA
 --------------------
 
 |No.|Title|
@@ -69,7 +69,7 @@ Blueqat Tutorial
 |322.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
 |323.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
 
-3. Universal Quantum Algorithms 1 (Shor's algorithm)
+3-1. Universal Quantum Algorithms
 --------------------
 
 |No.|Title|
@@ -80,7 +80,7 @@ Blueqat Tutorial
 |103.|<a href="tutorial/103_simon.ipynb">Simon's algorithm</a>|
 |104.|<a href="tutorial/104_shor.ipynb">Shor's algorithm</a>|
 
-4. Universal Quantum Algorithms 2 (Amplitude Amplification)
+3-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
 --------------------
 
 |No.|Title|
@@ -90,7 +90,7 @@ Blueqat Tutorial
 |112.|<a href="tutorial/112_amplitude_estimation.ipynb">Quantum Amplitude Estimation</a>|
 |113.|<a href="tutorial/113_qae_numerical_integration.ipynb">QAE and Numerical Integration</a>|
 
-5. Universal Quantum Algorithms 3 (Phase Estimation)
+3-3. Universal Quantum Algorithms 3 (Phase Estimation)
 --------------------
 
 |No.|Title|
@@ -101,7 +101,7 @@ Blueqat Tutorial
 |123.|<a href="tutorial/123_pea2.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|
 |124.|<a href="tutorial/124_pea3.ipynb">Quantum Phase Estimation of 4x4 Hermitian Matrix</a>|
 
-6. Universal Quantum Algorithms 4 (Time Evolution)
+3-4. Universal Quantum Algorithms 4 (Time Evolution)
 --------------------
 
 |No.|Title|
@@ -109,7 +109,7 @@ Blueqat Tutorial
 |130.|Time Evolution|
 |131.|Quantum Adiatatic Time Evolution|
 
-7. Universal Quantum Algorithms 5 (Others)
+3-5. Universal Quantum Algorithms 5 (Others)
 --------------------
 
 |No.|Title|
@@ -118,7 +118,7 @@ Blueqat Tutorial
 |151.|Super Dense Coding|
 |155.|<a href="tutorial/155_four.ipynb">Four Calculations and Modulus</a>|
 
-8. Quantum Chemistry
+4-1. Quantum Chemistry
 --------------------
 
 |No.|Title|
@@ -127,7 +127,7 @@ Blueqat Tutorial
 |401.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
 |402.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
 
-9. Backend 
+5-1. Backend 
 --------------------
 
 |No.|Title|
