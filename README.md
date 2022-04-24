@@ -10,24 +10,16 @@ Blueqat Tutorial
 |002.|<a href="tutorial/002_superposition.ipynb">Superposition and Entanglement</a>|
 |003.|<a href="tutorial/003_logicgate.ipynb">Quantum Logic Gate</a>|
 
-1-1. NISQ Variational Algorithms
+1-1. NISQ Variational and Machine Learning Algorithms
 --------------------
 
 |No.|Title|
 |:---|:---|
 |200.|<a href="tutorial/200_vqe.ipynb">Variational Quantum Eigensolver VQE</a>|
 |201.|<a href="tutorial/201_qaoa.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
-
-1-2. NISQ Machine Learning
---------------------
-
-|No.|Title|
-|:---|:---|
 |250.|<a href="tutorial/250_quantum_classical_hybrid.ipynb">Quantum Classical Hybrid Machine Learning</a>|
-|251.|<a href="tutorial/251_grad.ipynb">Numerical differentiation and gradient method</a>|
 |252.|<a href="tutorial/252_qcbm.ipynb">Quantum Circuit Born Machine</a>|
-|253.|<a href="tutorial/253_ttn.ipynb">Tree Tensor Network</a>|
-|254.|<a href="tutorial/254_mps.ipynb">Matrix Product State</a>|
+|253.|<a href="tutorial/253_ttn_mps.ipynb">Tree Tensor Network and Matrix Product State</a>|
 |210.|<a href="tutorial/210_clustering.ipynb">Clustering</a>|
 |211.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |212.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
