@@ -17,8 +17,6 @@ Blueqat Tutorial
 |:---|:---|
 |200.|<a href="tutorial/200_vqe.ipynb">Variational Quantum Eigensolver VQE</a>|
 |201.|<a href="tutorial/201_qaoa.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
-|202.|VQSVD|
-|203.|VQSD|
 
 1-2. NISQ Machine Learning
 --------------------
@@ -30,9 +28,6 @@ Blueqat Tutorial
 |252.|<a href="tutorial/252_qcbm.ipynb">Quantum Circuit Born Machine</a>|
 |253.|<a href="tutorial/253_ttn.ipynb">Tree Tensor Network</a>|
 |254.|<a href="tutorial/254_mps.ipynb">Matrix Product State</a>|
-|255.|MNIST|
-|256.|Holographic VQE|
-|257.|Automatic Differentiation|
 |210.|<a href="tutorial/210_clustering.ipynb">Clustering</a>|
 |211.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |212.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
@@ -58,7 +53,6 @@ Blueqat Tutorial
 |314.|<a href="tutorial/314_tsp.ipynb">Travelling Salesman</a>|
 |315.|<a href="tutorial/315_vertexcover.ipynb">Vertext Cover</a>|
 |316.|<a href="tutorial/316_trafficflow.ipynb">Traffic Flow Optimization</a>|
-|317.|Tiling Puzzle|
 |318.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
 |319.|<a href="tutorial/319_factorization.ipynb">Prime Factorization</a>|
 |322.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
@@ -94,8 +88,7 @@ Blueqat Tutorial
 
 |No.|Title|
 |:---|:---|
-|110.|<a href="tutorial/110_amplitude_amplification.ipynb">Quantum Amplitude Amplification</a>|
-|111.|<a href="tutorial/111_grover.ipynb">Grover's algorithm</a>|
+|110.|<a href="tutorial/110_amplitude_amplification.ipynb">Quantum Amplitude Amplification and Grover's Algorithm</a>|
 |112.|<a href="tutorial/112_amplitude_estimation.ipynb">Quantum Amplitude Estimation</a>|
 |113.|<a href="tutorial/113_qae_numerical_integration.ipynb">QAE and Numerical Integration</a>|
 
@@ -110,13 +103,6 @@ Blueqat Tutorial
 |123.|<a href="tutorial/123_pea2.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|
 |124.|<a href="tutorial/124_pea3.ipynb">Quantum Phase Estimation of 4x4 Hermitian Matrix</a>|
 
-3-4. Universal Quantum Algorithms 4 (Time Evolution)
---------------------
-
-|No.|Title|
-|:---|:---|
-|130.|Time Evolution|
-|131.|Quantum Adiatatic Time Evolution|
 
 3-5. Universal Quantum Algorithms 5 (Others)
 --------------------
@@ -124,7 +110,6 @@ Blueqat Tutorial
 |No.|Title|
 |:---|:---|
 |150.|<a href="tutorial/150_teleportation.ipynb">Quantum Teleportation</a>|
-|151.|Super Dense Coding|
 |155.|<a href="tutorial/155_four.ipynb">Four Calculations and Modulus</a>|
 
 4-1. Quantum Chemistry
@@ -135,14 +120,6 @@ Blueqat Tutorial
 |400.|<a href="tutorial/400_chemistry.ipynb">Quantum Chemistry and VQE</a>|
 |401.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
 |402.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
-
-5-1. Backend 
---------------------
-
-|No.|Title|
-|:---|:---|
-|600.|Connection to Quantum Computer|
-|601.|Original Backend|
 
 Contributors
 ----------
