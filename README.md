@@ -72,18 +72,16 @@ Blueqat Tutorial
 |606.|<a href="tutorial/606_photonqat_Fock.ipynb">Fock</a>|
 |607.|CV Dense Coding|
 
-3-1. Universal Quantum Algorithms
+2-3. Quantum Chemistry
 --------------------
 
 |No.|Title|
 |:---|:---|
-|100.|<a href="tutorial/100_deutsch.ipynb">Deutsch's algorithm</a>|
-|101.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm</a>|
-|102.|<a href="tutorial/102_bernstein-vazirani.ipynb">Bernstein-Vazirani's algorithm</a>|
-|103.|<a href="tutorial/103_simon.ipynb">Simon's algorithm</a>|
-|104.|<a href="tutorial/104_shor.ipynb">Shor's algorithm</a>|
+|400.|<a href="tutorial/400_chemistry.ipynb">Quantum Chemistry and VQE</a>|
+|401.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
+|402.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
 
-3-2. Universal Quantum Algorithms 2 (Amplitude Amplification)
+3-1. Universal Quantum Algorithms 1 (Amplitude Amplification)
 --------------------
 
 |No.|Title|
@@ -92,7 +90,7 @@ Blueqat Tutorial
 |112.|<a href="tutorial/112_amplitude_estimation.ipynb">Quantum Amplitude Estimation</a>|
 |113.|<a href="tutorial/113_qae_numerical_integration.ipynb">QAE and Numerical Integration</a>|
 
-3-3. Universal Quantum Algorithms 3 (Phase Estimation)
+3-2. Universal Quantum Algorithms 2 (Phase Estimation)
 --------------------
 
 |No.|Title|
@@ -103,23 +101,17 @@ Blueqat Tutorial
 |123.|<a href="tutorial/123_pea2.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|
 |124.|<a href="tutorial/124_pea3.ipynb">Quantum Phase Estimation of 4x4 Hermitian Matrix</a>|
 
-
-3-5. Universal Quantum Algorithms 5 (Others)
+3-1. Universal Quantum Algorithms 3
 --------------------
 
 |No.|Title|
 |:---|:---|
-|150.|<a href="tutorial/150_teleportation.ipynb">Quantum Teleportation</a>|
+|100.|<a href="tutorial/100_deutsch.ipynb">Deutsch's algorithm</a>|
+|101.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm</a>|
+|102.|<a href="tutorial/102_bernstein-vazirani.ipynb">Bernstein-Vazirani's algorithm</a>|
+|103.|<a href="tutorial/103_simon.ipynb">Simon's algorithm</a>|
+|104.|<a href="tutorial/104_shor.ipynb">Shor's algorithm</a>|
 |155.|<a href="tutorial/155_four.ipynb">Four Calculations and Modulus</a>|
-
-4-1. Quantum Chemistry
---------------------
-
-|No.|Title|
-|:---|:---|
-|400.|<a href="tutorial/400_chemistry.ipynb">Quantum Chemistry and VQE</a>|
-|401.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
-|402.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
 
 Contributors
 ----------
