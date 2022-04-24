@@ -71,7 +71,7 @@ Blueqat Tutorial
 |:---|:---|
 |600.|<a href="tutorial/600_BasicOperations.ipynb">Basic Operations</a>|
 |601.|<a href="tutorial/601_GaussianGates.ipynb">Gaussian Gates</a>|
-|602.|<a href="tutorial/602_bernstein-vazirani.ipynb">Kerr Gate</a>|
+|602.|<a href="tutorial/602_KerrGate.ipynb">Kerr Gate</a>|
 |603.|<a href="tutorial/603_PhotonCountingForGaussian.ipynb">Photon Counting for Gaussian</a>|
 |604.|<a href="tutorial/604_StateTeleportation.ipynb">State Teleportation</a>|
 |605.|<a href="tutorial/605_catState.ipynb">Cat State</a>|
