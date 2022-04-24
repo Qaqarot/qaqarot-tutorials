@@ -6,14 +6,9 @@ Blueqat Tutorial
 
 |No.|Title|
 |:---|:---|
-|001.|<a href="tutorial/001_qubit.ipynb">Operation on Qubits</a>|
-|002.|<a href="tutorial/002_superposition.ipynb">Superposition</a>|
-|003.|<a href="tutorial/003_entanglement.ipynb">Entanglement and GHZ state</a>|
-|004.|<a href="tutorial/004_gate.ipynb">Quantum Logic Gate and Rotation</a>|
-|005.|<a href="tutorial/005_1gate.ipynb">1qubit Gate</a>|
-|006.|<a href="tutorial/006_2gate.ipynb">2qubit Gate</a>|
-|007.|<a href="tutorial/007_3gate.ipynb">3qubit Gate</a>|
-|008.|<a href="tutorial/008_quantum_algorithm.ipynb">Quantum algorithm</a>|
+|001.|<a href="tutorial/001_qubit.ipynb">Operation on Qubits and Qunatum Algorithm</a>|
+|002.|<a href="tutorial/002_superposition.ipynb">Superposition and Entanglement</a>|
+|003.|<a href="tutorial/003_logicgate.ipynb">Quantum Logic Gate</a>|
 
 1-1. NISQ Variational Algorithms
 --------------------
