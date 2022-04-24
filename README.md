@@ -69,6 +69,20 @@ Blueqat Tutorial
 |322.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
 |323.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
 
+2-2. Continuous Variable Algorithms
+--------------------
+
+|No.|Title|
+|:---|:---|
+|600.|<a href="tutorial/600_BasicOperations.ipynb">Basic Operations</a>|
+|601.|<a href="tutorial/601_GaussianGates.ipynb">Gaussian Gates</a>|
+|602.|<a href="tutorial/602_bernstein-vazirani.ipynb">Kerr Gate</a>|
+|603.|<a href="tutorial/603_PhotonCountingForGaussian.ipynb">Photon Counting for Gaussian</a>|
+|604.|<a href="tutorial/604_StateTeleportation.ipynb">State Teleportation</a>|
+|605.|<a href="tutorial/605_catState.ipynb">Cat State</a>|
+|606.|<a href="tutorial/606_photonqat_Fock.ipynb">Fock</a>|
+|607.|CV Dense Coding|
+
 3-1. Universal Quantum Algorithms
 --------------------
 
