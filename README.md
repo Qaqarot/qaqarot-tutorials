@@ -6,9 +6,8 @@ Blueqat Tutorial
 
 |No.|Title|
 |:---|:---|
-|001.|<a href="tutorial/001_qubit.ipynb">Operation on Qubits and Qunatum Algorithm</a>|
-|002.|<a href="tutorial/002_superposition.ipynb">Superposition and Entanglement</a>|
-|003.|<a href="tutorial/003_logicgate.ipynb">Quantum Logic Gate</a>|
+|001.|<a href="tutorial/001_qubit.ipynb">Operation on Qubits and Quantum Algorithm</a>|
+|002.|<a href="tutorial/002_logicgate.ipynb">Quantum Logic Gate</a>|
 
 1-1. NISQ Variational and Machine Learning Algorithms
 --------------------
