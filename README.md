@@ -21,7 +21,7 @@ Blueqat Tutorial
 |250.|<a href="tutorial/250_quantum_classical_hybrid.ipynb">Quantum Classical Hybrid Machine Learning</a>|
 |252.|<a href="tutorial/252_qcbm.ipynb">Quantum Circuit Born Machine</a>|
 |253.|<a href="tutorial/253_ttn_mps.ipynb">Tree Tensor Network and Matrix Product State</a>|
-|210.|<a href="tutorial/210_clustering.ipynb">Clustering</a>|
+|210.|<a href="tutorial/105_clustering.ipynb">Clustering</a>|
 |211.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |212.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
 
