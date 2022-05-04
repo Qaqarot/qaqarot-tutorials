@@ -63,7 +63,7 @@ Blueqat Tutorial
 |604.|<a href="tutorial/604_StateTeleportation.ipynb">State Teleportation</a>|
 |605.|<a href="tutorial/605_catState.ipynb">Cat State</a>|
 |606.|<a href="tutorial/606_photonqat_Fock.ipynb">Fock</a>|
-|607.|CV Dense Coding|
+|607.|<a href="tutorial/607_Dense_Coding.ipynb">CV Dense Coding</a>|
 
 2-3. Quantum Chemistry
 --------------------
