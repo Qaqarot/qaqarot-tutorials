@@ -49,7 +49,6 @@ Blueqat Tutorial
 |318.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
 |319.|<a href="tutorial/319_factorization.ipynb">Prime Factorization</a>|
 |322.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
-|323.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
 
 2-2. Continuous Variable Algorithms
 --------------------
@@ -82,6 +81,7 @@ Blueqat Tutorial
 |110.|<a href="tutorial/110_amplitude_amplification.ipynb">Quantum Amplitude Amplification and Grover's Algorithm</a>|
 |112.|<a href="tutorial/112_amplitude_estimation.ipynb">Quantum Amplitude Estimation</a>|
 |113.|<a href="tutorial/113_qae_numerical_integration.ipynb">QAE and Numerical Integration</a>|
+|114.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
 
 3-2. Universal Quantum Algorithms 2 (Phase Estimation)
 --------------------
