@@ -35,8 +35,7 @@ Blueqat Tutorial
 |305.|<a href="tutorial/305_cliquecover.ipynb">Clique Cover</a>|
 |306.|<a href="tutorial/306_cliques.ipynb">Cliques</a>|
 |307.|<a href="tutorial/307_exactcover.ipynb">Exact Cover</a>|
-|308.|<a href="tutorial/308_graphcoloring.ipynb">Graph Coloring</a>|
-|309.|<a href="tutorial/309_graphpartitioning.ipynb">Graph Partitioning</a>|
+|308.|<a href="tutorial/308_graphcoloring.ipynb">Graph Coloring, Graph Partitioning</a>|
 |310.|<a href="tutorial/310_jobsequencing.ipynb">Job Sequence</a>|
 |311.|<a href="tutorial/311_knapsack.ipynb">Knapsack</a>|
 |312.|<a href="tutorial/312_setcover.ipynb">Set Cover</a>|
