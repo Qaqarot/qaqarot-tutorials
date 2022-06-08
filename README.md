@@ -40,7 +40,6 @@ Blueqat Tutorial
 |311.|<a href="tutorial/311_knapsack.ipynb">Knapsack</a>|
 |312.|<a href="tutorial/312_setcover.ipynb">Set Cover</a>|
 |313.|<a href="tutorial/313_setpacking.ipynb">Set Packing</a>|
-|314.|<a href="tutorial/314_tsp.ipynb">Travelling Salesman</a>|
 |315.|<a href="tutorial/315_vertexcover.ipynb">Vertext Cover</a>|
 |316.|<a href="tutorial/316_trafficflow.ipynb">Traffic Flow Optimization</a>|
 |318.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
