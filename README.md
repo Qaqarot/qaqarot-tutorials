@@ -31,7 +31,7 @@ Blueqat Tutorial
 |No.|Title|
 |:---|:---|
 |300.|<a href="tutorial/300_cop.ipynb">Combinatorial Optimization Problems</a>|
-|301.|<a href="tutorial/301_maxcut.ipynb">Maxcut, Number Partitioning, Binary Integer Linear Programming</a>|
+|301.|<a href="tutorial/301_maxcut.ipynb">Maxcut</a>|
 |305.|<a href="tutorial/305_cliquecover.ipynb">Clique Cover</a>|
 |306.|<a href="tutorial/306_cliques.ipynb">Cliques</a>|
 |307.|<a href="tutorial/307_exactcover.ipynb">Exact Cover</a>|
