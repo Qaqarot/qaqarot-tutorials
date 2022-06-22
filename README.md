@@ -1,7 +1,7 @@
 Blueqat Tutorial
 ====================
 
-0. Basic Operation on Quantum Computer
+0-1. Basic Operation on Quantum Computer
 --------------------
 
 |No.|Title|
@@ -11,7 +11,7 @@ Blueqat Tutorial
 |003.|<a href="tutorial/003_cloud.ipynb">Connection to the cloud</a>|
 |004.|<a href="tutorial/004_backend.ipynb">Backend</a>|
 
-1. Variational and Machine Learning Algorithms
+1-1. Variational and Machine Learning Algorithms
 --------------------
 
 |No.|Title|
@@ -43,7 +43,7 @@ Blueqat Tutorial
 |124.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
 |125.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
 
-2. Photonics Continuous Variable Algorithms
+2-1. Photonics Continuous Variable Algorithms
 --------------------
 
 |No.|Title|
@@ -57,7 +57,7 @@ Blueqat Tutorial
 |206.|<a href="tutorial/606_photonqat_Fock.ipynb">Fock</a>|
 |207.|<a href="tutorial/607_Dense_Coding.ipynb">CV Dense Coding</a>|
 
-3. FTQC Algorithms
+3-1. FTQC Algorithms
 --------------------
 
 |No.|Title|
