@@ -62,21 +62,18 @@ Blueqat Tutorial
 
 |No.|Title|
 |:---|:---|
-|300.|<a href="tutorial/110_amplitude_amplification.ipynb">Quantum Amplitude Amplification and Grover's Algorithm</a>|
-|301.|<a href="tutorial/112_amplitude_estimation.ipynb">Quantum Amplitude Estimation</a>|
-|302.|<a href="tutorial/113_qae_numerical_integration.ipynb">QAE and Numerical Integration</a>|
-|303.|<a href="tutorial/323_grover_adaptive_qubo.ipynb">Grover Adaptive Search for QUBO</a>|
-|304.|<a href="tutorial/120_phase_kick_back.ipynb">Phase Kickback</a>|
-|305.|<a href="tutorial/121_qft.ipynb">Quantum Fourier Transform</a>|
-|306.|<a href="tutorial/122_pea.ipynb">Quantum Phase Estimation</a>|
-|307.|<a href="tutorial/123_pea2.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|
-|308.|<a href="tutorial/124_pea3.ipynb">Quantum Phase Estimation of 4x4 Hermitian Matrix</a>|
-|309.|<a href="tutorial/100_deutsch.ipynb">Deutsch's algorithm</a>|
-|310.|<a href="tutorial/101_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm</a>|
-|311.|<a href="tutorial/102_bernstein-vazirani.ipynb">Bernstein-Vazirani's algorithm</a>|
-|312.|<a href="tutorial/103_simon.ipynb">Simon's algorithm</a>|
-|313.|<a href="tutorial/104_shor.ipynb">Shor's algorithm</a>|
-|314.|<a href="tutorial/155_four.ipynb">Four Calculations and Modulus</a>|
+|300.|<a href="tutorial/3_ftqc/01_qft.ipynb">Quantum Fourier Transform</a>|
+|301.|<a href="tutorial/3_ftqc/02_pea.ipynb">Quantum Phase Estimation</a>|
+|302.|<a href="tutorial/3_ftqc/02_pea2.ipynb">Quantum Phase Estimation of 2x2 Hermitian Matrix</a>|
+|303.|<a href="tutorial/3_ftqc/02_pea3.ipynb">Quantum Phase Estimation of 4x4 Hermitian Matrix</a>|
+|304.|<a href="tutorial/3_ftqc/03_qaa_qae_grover_gas.ipynb">Quantum Amplitude Amplification and Quantum Amplitude Estimation with Applications</a>|
+|305.|<a href="tutorial/3_ftqc/04_phase_kick_back.ipynb">Phase Kickback</a>|
+|306.|<a href="tutorial/3_ftqc/05_deutsch.ipynb">Deutsch's algorithm</a>|
+|307.|<a href="tutorial/3_ftqc/05_deutsch-jozsa.ipynb">Deutsch-Jozsa's algorithm</a>|
+|308.|<a href="tutorial/3_ftqc/05_bernstein-vazirani.ipynb">Bernstein-Vazirani's algorithm</a>|
+|309.|<a href="tutorial/3_ftqc/05_simon.ipynb">Simon's algorithm</a>|
+|310.|<a href="tutorial/3_ftqc/05_shor.ipynb">Shor's algorithm</a>|
+|311.|<a href="tutorial/3_ftqc/06_four.ipynb">Four Calculations and Modulus</a>|
 
 Contributors
 ----------
