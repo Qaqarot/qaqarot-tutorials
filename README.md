@@ -26,7 +26,6 @@ Blueqat Tutorial
 |107.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
 |108.|<a href="tutorial/300_cop.ipynb">Combinatorial Optimization Problems</a>|
 |109.|<a href="tutorial/301_maxcut.ipynb">Maxcut</a>|
-|110.|<a href="tutorial/305_cliquecover.ipynb">Clique Cover</a>|
 |111.|<a href="tutorial/306_cliques.ipynb">Cliques</a>|
 |112.|<a href="tutorial/307_exactcover.ipynb">Exact Cover</a>|
 |113.|<a href="tutorial/308_graphcoloring.ipynb">Graph Coloring, Graph Partitioning</a>|
