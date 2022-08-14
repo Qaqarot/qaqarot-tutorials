@@ -16,15 +16,14 @@ Blueqat Tutorial
 
 |No.|Title|
 |:---|:---|
-|100.|<a href="tutorial/200_vqe.ipynb">Variational Quantum Eigensolver VQE</a>|
-|101.|<a href="tutorial/201_qaoa.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
+|100.|<a href="tutorial/100_vqe.ipynb">Variational Quantum Eigensolver VQE</a>|
+|101.|<a href="tutorial/101_qaoa.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
 |102.|<a href="tutorial/250_quantum_classical_hybrid.ipynb">Quantum Classical Hybrid Machine Learning</a>|
 |103.|<a href="tutorial/252_qcbm.ipynb">Quantum Circuit Born Machine</a>|
 |104.|<a href="tutorial/253_ttn_mps.ipynb">Tree Tensor Network and Matrix Product State</a>|
 |105.|<a href="tutorial/105_clustering.ipynb">Clustering</a>|
 |106.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |107.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
-|108.|<a href="tutorial/300_cop.ipynb">Combinatorial Optimization Problems</a>|
 |109.|<a href="tutorial/301_maxcut.ipynb">Maxcut</a>|
 |111.|<a href="tutorial/306_cliques.ipynb">Cliques</a>|
 |112.|<a href="tutorial/307_exactcover.ipynb">Exact Cover</a>|
@@ -41,20 +40,6 @@ Blueqat Tutorial
 |123.|<a href="tutorial/400_chemistry.ipynb">Quantum Chemistry and VQE</a>|
 |124.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
 |125.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
-
-2-1. Photonics Continuous Variable Algorithms
---------------------
-
-|No.|Title|
-|:---|:---|
-|200.|<a href="tutorial/600_BasicOperations.ipynb">Basic Operations</a>|
-|201.|<a href="tutorial/601_GaussianGates.ipynb">Gaussian Gates</a>|
-|202.|<a href="tutorial/602_KerrGate.ipynb">Kerr Gate</a>|
-|203.|<a href="tutorial/603_PhotonCountingForGaussian.ipynb">Photon Counting for Gaussian</a>|
-|204.|<a href="tutorial/604_StateTeleportation.ipynb">State Teleportation</a>|
-|205.|<a href="tutorial/605_catState.ipynb">Cat State</a>|
-|206.|<a href="tutorial/606_photonqat_Fock.ipynb">Fock</a>|
-|207.|<a href="tutorial/607_Dense_Coding.ipynb">CV Dense Coding</a>|
 
 3-1. FTQC Algorithms
 --------------------
