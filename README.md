@@ -24,7 +24,7 @@ Blueqat Tutorial
 |105.|<a href="tutorial/105_clustering.ipynb">Clustering</a>|
 |106.|<a href="tutorial/211_linear_regression.ipynb">Linear Regression</a>|
 |107.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
-|109.|<a href="tutorial/301_maxcut.ipynb">Maxcut</a>|
+|109.|<a href="tutorial/109_maxcut.ipynb">Maxcut</a>|
 |111.|<a href="tutorial/306_cliques.ipynb">Cliques</a>|
 |112.|<a href="tutorial/307_exactcover.ipynb">Exact Cover</a>|
 |113.|<a href="tutorial/308_graphcoloring.ipynb">Graph Coloring, Graph Partitioning</a>|
