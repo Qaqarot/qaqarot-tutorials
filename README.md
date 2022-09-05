@@ -18,7 +18,7 @@ Blueqat Tutorial
 |:---|:---|
 |100.|<a href="tutorial/100_vqe.ipynb">Variational Quantum Eigensolver VQE</a>|
 |101.|<a href="tutorial/101_qaoa.ipynb">Quantum Approximate Optimization Algorithm QAOA</a>|
-|102.|<a href="tutorial/250_quantum_classical_hybrid.ipynb">Quantum Classical Hybrid Machine Learning</a>|
+|102.|<a href="tutorial/102_quantum_classical_hybrid.ipynb">Quantum Classical Hybrid Machine Learning</a>|
 |103.|<a href="tutorial/252_qcbm.ipynb">Quantum Circuit Born Machine</a>|
 |104.|<a href="tutorial/253_ttn_mps.ipynb">Tree Tensor Network and Matrix Product State</a>|
 |105.|<a href="tutorial/105_clustering.ipynb">Clustering</a>|
