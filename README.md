@@ -32,9 +32,6 @@ Blueqat Tutorial
 |117.|<a href="tutorial/313_setpacking.ipynb">Set Packing</a>|
 |118.|<a href="tutorial/315_vertexcover.ipynb">Vertext Cover</a>|
 |119.|<a href="tutorial/316_trafficflow.ipynb">Traffic Flow Optimization</a>|
-|120.|<a href="tutorial/318_portfolio.ipynb">Portfolio Optimization</a>|
-|121.|<a href="tutorial/319_factorization.ipynb">Prime Factorization</a>|
-|122.|<a href="tutorial/322_protein.ipynb">Protein Foldings</a>|
 |123.|<a href="tutorial/400_chemistry.ipynb">Quantum Chemistry and VQE</a>|
 |124.|<a href="tutorial/401_homemadeansatz.ipynb">VQE with homemade ansatz</a>|
 |125.|<a href="tutorial/402_excitedstate.ipynb">Excited state calculation</a>|
