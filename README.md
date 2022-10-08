@@ -26,8 +26,6 @@ Blueqat Tutorial
 |107.|<a href="tutorial/212_matrix_factorization.ipynb">Matrix Factorization</a>|
 |108.|<a href="tutorial/108_trafficflow.ipynb">Traffic Flow Optimization on QAOA</a>|
 |109.|<a href="tutorial/109_maxcut.ipynb">Maxcut, Exact Cover, Graph Coloring on QAOA</a>|
-|114.|<a href="tutorial/310_jobsequencing.ipynb">Job Sequence</a>|
-|115.|<a href="tutorial/311_knapsack.ipynb">Knapsack</a>|
 |116.|<a href="tutorial/312_setcover.ipynb">Set Cover</a>|
 |117.|<a href="tutorial/313_setpacking.ipynb">Set Packing</a>|
 |118.|<a href="tutorial/315_vertexcover.ipynb">Vertext Cover</a>|
